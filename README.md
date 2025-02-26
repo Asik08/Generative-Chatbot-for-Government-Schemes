@@ -1,6 +1,6 @@
 ![Chatbot Screenshot](Chatbot_UI.png)
 
-### Government Scheme Chatbot
+##Government Scheme Chatbot
 This project is a chatbot designed to provide information about various government schemes. It uses natural language processing (NLP) and a FAISS-based search engine to retrieve relevant information from a
 dataset of government schemes. The chatbot is built using Flask for the backend, and it leverages the LLaMA model via the Groq API for generating responses.
 
