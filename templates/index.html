@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask Your Questions!</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="chatbot-container">
+        <div id="header">
+            <h1>Chatbot</h1>
+        </div>
+        <!-- Separate container for the conversation area -->
+        <div id="conversation-wrapper">
+            <div id="conversation">
+                <div class="chatbot-message">
+                    <p class="chatbot-text">Welcome to the chatbot! How can I assist you today?</p>
+                </div>
+            </div>
+        </div>
+        <!-- Separate container for the input box -->
+        <div id="input-container">
+            <form id="input-form">
+                <div class="message-container">
+                    <input id="input-field" type="text" placeholder="Type your message here" aria-label="Type your message">
+                    <button id="submit-button" type="submit" aria-label="Send message">Send</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,2474 @@
+[
+    {
+        "Scheme Name": "Saksham Scholarship for Specially-Abled Students (Diploma)",
+        "Description": "Financial support for differently-abled students pursuing technical diploma studies.",
+        "Eligibility": "Differently-abled students with 40% or more disability",
+        "Benefits": "Tuition fee of Rs. 30,000, Rs. 2,000 per month for 10 months as incidental charges, and Rs. 30,000 for books/equipment/software",
+        "Required Documents": "Mark Sheet of standard Xth/XIIth, Aadhar Card, Disability Certificate"
+    },
+    {
+        "Scheme Name": "Annal Gandhi Memorial Award",
+        "Description": "Award for Adi Dravidar Hindu students securing 1st rank in 12th Public Examinations.",
+        "Eligibility": "Hindu AD students who secured first rank in 12th Std. Public Exams in their district",
+        "Benefits": "Recognition award; no income limit",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Adi Dravidar & Tribal Welfare Scholarship (Free Education)",
+        "Description": "Free education up to 12th standard for eligible students.",
+        "Eligibility": "Adi Dravidar/Tribal/Adi Dravidar Converted to Christianity students; no income limit",
+        "Benefits": "Free education up to 12th Std.",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Post-Matric Scholarship Scheme",
+        "Description": "Financial assistance for students from class XI to XII to promote higher education among backward communities.",
+        "Eligibility": "Parents' income \u2264 Rs. 1,00,000; student from Most Backward Classes and Denotified Communities",
+        "Benefits": "Tuition fee of Rs. 500 (Rs. 50 per month for 10 months) and full examination fee coverage for 12th Std.",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Adi Dravidar & Tribal Welfare Scholarship (Public Exams)",
+        "Description": "Covers examination fees for 10th and 12th Std. students in Adi Dravidar/Tribal communities.",
+        "Eligibility": "Adi Dravidar/Tribal/Adi Dravidar Converted to Christianity students; no income limit",
+        "Benefits": "Public examination fee reimbursed directly to the Directorate of Government Examinations",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Pragathi Scholarship for Girl Students (Technical Diploma)",
+        "Description": "Scholarship for girl students pursuing technical diplomas, covering tuition, examination, and other incidental expenses.",
+        "Eligibility": "Female students from families with income < Rs. 8 Lakh; maximum duration varies depending on entry year",
+        "Benefits": "Up to Rs. 50,000 per annum for three years for Diploma students (first year) and two years for lateral entry",
+        "Required Documents": "-"
+    },
+    {
+        "Scheme Name": "Pre-Matric Scholarship Scheme",
+        "Description": "Aimed at promoting school education among financially challenged students.",
+        "Eligibility": "Parents' income \u2264 Rs. 1,00,000; no graduate in the family; students in 6th to 10th Std.",
+        "Benefits": "Tuition fee: Rs. 200 for 6th-8th Std. and Rs. 250 for 9th-10th Std., paid monthly for 10 months",
+        "Required Documents": "Income Certificate"
+    },
+    {
+        "Scheme Name": "Free Education Scholarship for Professional Courses",
+        "Description": "Financial assistance for students pursuing professional courses.",
+        "Eligibility": "Parents' income \u2264 Rs. 1,00,000; no graduate in the family; Backward Classes, Most Backward Classes, and Denotified Communities students",
+        "Benefits": "Tuition fee, special fee, and other non-refundable fees paid as prescribed, with full examination fee coverage",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Awards to Bright Students",
+        "Description": "Financial reward for students excelling in 10th Public Examinations.",
+        "Eligibility": "First two boys and girls in each district from Adi Dravidar, Tribal, or Adi Dravidar Converted to Christianity communities",
+        "Benefits": "Rs. 800 in the first year and Rs. 960 for the next five years",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Post-Matric Scholarship for Students with Disabilities",
+        "Description": "Assistance including scholarship, book grant, and escort/reader allowance for disabled students continuing education.",
+        "Eligibility": "Students progressing within the same stage of education",
+        "Benefits": "Varies by course and disability",
+        "Required Documents": "Disability Certificate"
+    },
+    {
+        "Scheme Name": "Begum Hazrat Mahal National Scholarship for Minority Girls",
+        "Description": "Financial aid for minority community girls for educational expenses, including fees, books, and lodging.",
+        "Eligibility": "Minority community girls (Muslims, Christians, Sikhs, Buddhists, Jains, Parsis) in class IX to XII; family income \u2264 Rs. 2 lakh",
+        "Benefits": "Rs. 5,000 each for Class IX & X, Rs. 6,000 each for Class XI & XII",
+        "Required Documents": "Previous class mark sheet (min. 50%), school verification form"
+    },
+    {
+        "Scheme Name": "Saksham Scholarship for Specially-Abled Students (Degree)",
+        "Description": "Support for differently-abled students in technical degree programs to pursue further education.",
+        "Eligibility": "Differently-abled students with \u2265 40% disability",
+        "Benefits": "Tuition fee of Rs. 30,000, Rs. 2,000 per month for 10 months as incidental charges, and Rs. 30,000 for books/equipment/software",
+        "Required Documents": "Mark Sheet of standard Xth/XIIth, Aadhar Card, Disability Certificate"
+    },
+    {
+        "Scheme Name": "Scheme for Meritorious Students (Higher Secondary)",
+        "Description": "Financial aid for high-scoring students from government schools to pursue higher education in top private schools.",
+        "Eligibility": "Top 10 students from government high schools in each district with parental income \u2264 Rs. 1 lakh",
+        "Benefits": "Financial assistance to study in selected private schools",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Free Laptop Scheme",
+        "Description": "Government program providing laptops to students with high marks to promote digital literacy and skill development.",
+        "Eligibility": "Students who passed 10th or 12th Std. with \u2265 75% marks",
+        "Benefits": "Free laptop",
+        "Required Documents": "10th and 12th Mark Sheet, Residential Proof, Aadhar Card"
+    },
+    {
+        "Scheme Name": "Top Class Education Scheme",
+        "Description": "Financial aid for SC students pursuing post-secondary education in reputable institutions.",
+        "Eligibility": "SC students with family income \u2264 Rs. 8 lakh",
+        "Benefits": "Full tuition fee, living expenses, books, stationery, and laptops",
+        "Required Documents": "Income Certificate, Aadhar Number, Caste Certificate, Parents' Bank Details"
+    },
+    {
+        "Scheme Name": "National Overseas Scholarship for Scheduled Castes",
+        "Description": "Scholarship for low-income SC students to pursue Master's or Ph.D. programs abroad.",
+        "Eligibility": "SC students with family income less than Rs. 8 lakh; minimum 60% marks in qualifying exam",
+        "Benefits": "Up to 100 awards annually; 30% reserved for women",
+        "Required Documents": "Income Certificate, Passport"
+    },
+    {
+        "Scheme Name": "Merit Cum Means Scholarship (Technical Courses for Minorities)",
+        "Description": "Financial aid for minority students pursuing professional/technical courses.",
+        "Eligibility": "Minority students (Muslims, Christians, Sikhs, Buddhists, Jains, Parsis) in class IX-XII with family income \u2264 Rs. 2 lakh",
+        "Benefits": "Rs. 5,000 for Class IX & X, Rs. 6,000 for Class XI & XII",
+        "Required Documents": "School verification form, previous class mark sheet (min. 50%)"
+    },
+    {
+        "Scheme Name": "Free Education Scheme (Degree)",
+        "Description": "Free education for Backward, Most Backward, and Denotified students in 3-year UG courses in government and aided arts/science colleges.",
+        "Eligibility": "Backward, Most Backward, Denotified students in 3-year degree programs",
+        "Benefits": "Special fee, other non-refundable fees, and full examination fees",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "National Merit Scholarship Scheme",
+        "Description": "Scholarships to meritorious students in class 12th with excellent academic records.",
+        "Eligibility": "Students from Class 12th with high marks in exams",
+        "Benefits": "Financial aid for higher studies",
+        "Required Documents": "Class 12th Marksheet, Aadhar Card"
+    },
+    {
+        "Scheme Name": "AICTE-SWANATH Scholarship (Technical Diploma)",
+        "Description": "Support for orphaned students, COVID-19-affected students, and children of martyred armed forces/paramilitary personnel in technical diploma courses.",
+        "Eligibility": "First- or second-year students in AICTE-approved diploma courses",
+        "Benefits": "Rs. 50,000 annually towards college fees, computers, books, and other essentials",
+        "Required Documents": "Family income certificate, Disability certificate, Caste Certificate, Aadhar Number"
+    },
+    {
+        "Scheme Name": "Book Bank",
+        "Description": "Book lending scheme for SC/ST students to reduce dropout/failure rates due to lack of textbooks.",
+        "Eligibility": "SC/ST students receiving the Government of India Scholarship",
+        "Benefits": "Access to course-specific books in the library for Medical, Engineering, Law, MBA, Veterinary, Agriculture, and Polytechnic courses",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Free Education Scholarship (Polytechnic)",
+        "Description": "Free education for eligible backward classes in polytechnic courses.",
+        "Eligibility": "Parents' income \u2264 Rs. 1,00,000; no diploma/graduate in family; Backward, Most Backward, and Denotified Communities students",
+        "Benefits": "Tuition fee, special fee, and non-refundable fees as per government guidelines",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Assistance for Education",
+        "Description": "Financial aid for meritorious students with family income \u2264 Rs. 4.5 lakh per annum.",
+        "Eligibility": "Children of Folk Artistes, maximum of 2 per family starting from Class X",
+        "Benefits": "Financial support for day-to-day expenses in higher studies, including hostel fees based on course",
+        "Required Documents": "Community Certificate"
+    },
+    {
+        "Scheme Name": "Adi Dravidar and Tribal Welfare Department -Hostels - Special Guides",
+        "Description": "Support for boys/girls studying up to XII Standard",
+        "Eligibility": "All Boys/Girls Boarders studying up to XII Standard",
+        "Benefits": "Hostel Facilities",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Adi Dravidar and Tribal Welfare Department -Incentive / Award of Prizes - District Level",
+        "Description": "Awards for the highest marks in Plus 2 and 10th Std. examinations for students from Adi Dravidar/Tribal communities.",
+        "Eligibility": "One Boy and One Girl each from Adi Dravidar/Tribal / Adi Dravidar Converted to Christianity who have secured highest marks",
+        "Benefits": "Incentives of Rs. 3000/- (Plus 2), Rs. 1000/- (10th Std First Prize), Rs. 500/- (Second Prize), Rs. 300/- (Third Prize)",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Adi Dravidar and Tribal Welfare Department -Scholarship - Free Education upto 12th Std.",
+        "Description": "Free education for all students from Adi Dravidar/Tribal/Adi Dravidar Converted to Christianity communities.",
+        "Eligibility": "All Adi Dravidar/Tribal / Adi Dravidar Converted to Christianity students with no income limit",
+        "Benefits": "Tuition fee will not be collected, and the amount will be reimbursed by Government",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Adi Dravidar and Tribal Welfare Department - Scholarship - Public Examination fee for 10th and 12th Std.",
+        "Description": "Reimbursement of public examination fees for 10th and 12th Std. students in Adi Dravidar and Tribal communities.",
+        "Eligibility": "All Adi Dravidar/Tribal / Adi Dravidar Converted to Christianity students",
+        "Benefits": "Public examination fees will be reimbursed directly to the Directorate of Government Examinations",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Adi Dravidar and Tribal Welfare Department - Stationary - Text Books",
+        "Description": "Free textbooks for students studying in Adi Dravidar and Tribal welfare schools.",
+        "Eligibility": "All students studying in 1st standard to 12th standard in Adi Dravidar and Tribal welfare schools",
+        "Benefits": "Free textbooks for students",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Admission of Adi Dravidar / Tribal students in Plus One at Reputed Schools",
+        "Description": "Admission for outstanding students to reputed private schools for higher secondary education.",
+        "Eligibility": "Students who secure the highest marks in X standard from Adi Dravidar/Tribal Welfare schools",
+        "Benefits": "Financial support for admission to reputed private schools",
+        "Required Documents": "Income less than Rs. 1,00,000"
+    },
+    {
+        "Scheme Name": "Chief Minister Merit Award",
+        "Description": "Award for students from Adi Dravidar, Tribal, and Adi Dravidar converted to Christianity communities.",
+        "Eligibility": "Top 1000 boys and 1000 girls from the Adi Dravidar, Tribal, and Adi Dravidar Converted to Christianity communities",
+        "Benefits": "Rs. 3000 per annum for 5 years, provided they continue education",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Chief Minister\u2019s Merit Award",
+        "Description": "Merit-based scholarship for students who secure top marks in the 12th Std. Public Examination and continue higher studies.",
+        "Eligibility": "First 1000 boys and girls who pass the 12th Std. Public Examination and continue their studies",
+        "Benefits": "Rs. 1500 per annum for 5 years",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "DISTRICT LEVEL PRIZES PUBLIC EXAMINATION 10th and 12th Std.",
+        "Description": "Prizes for the best-performing students in 10th and 12th Std. Public Examinations.",
+        "Eligibility": "Top students from Backward, Most Backward, and Denotified Communities",
+        "Benefits": "First Prize: Rs. 6000, Second Prize: Rs. 4000, Third Prize: Rs. 2000",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Free Education Scheme",
+        "Description": "Free education for 3-year U.G. degree courses for students from Backward, Most Backward, and Denotified Communities.",
+        "Eligibility": "Students in 3-year U.G. degree courses in Government and Government Aided Arts and Science Colleges",
+        "Benefits": "Tuition fees, special fees, and other non-refundable fees paid as prescribed by the government",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Free Education Scholarship for Polytechnic Courses",
+        "Description": "Free education for students from Backward, Most Backward, and Denotified Communities in 3-year Diploma courses.",
+        "Eligibility": "Students from Backward, Most Backward, and Denotified Communities in Government and Government Aided Polytechnics",
+        "Benefits": "Tuition fees, special fees, and other non-refundable fees paid as prescribed by the government",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Postmatric Scholarship",
+        "Description": "Scholarship for students studying in 11th and 12th Standard in English Medium.",
+        "Eligibility": "Students from Backward, Most Backward, and Denotified Communities with family income less than Rs. 1,00,000",
+        "Benefits": "Scholarship for tuition, examination, and other prescribed fees",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Scheme for Meritorious Students to Pursue Higher Secondary Education",
+        "Description": "Financial assistance for students who top their 10th Public examination to pursue higher secondary education in top private schools in Tamil Nadu.",
+        "Eligibility": "Top students from Government High Schools in 10th Std. Public Examinations",
+        "Benefits": "Financial support for admission to reputed private schools",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "Adi Dravidar and Tribal Welfare Department - Incentive / Award of Prizes",
+        "Description": "Incentive and award of prizes for students from Adi Dravidar/Tribal/Adi Dravidar Converted to Christianity communities based on their performance in Plus 2 and 10th Std. examinations.",
+        "Eligibility": "One student each from Adi Dravidar/Tribal/Adi Dravidar Converted to Christianity for each subject in Plus 2 and 10th Std. examinations",
+        "Benefits": "Rs. 2000/- for each subject in Plus 2 Examination, Rs. 1000/- for 10th Std. Examination",
+        "Required Documents": "N/A"
+    },
+    {
+        "Scheme Name": "ICMR- Post Doctoral Fellowship (ICMR-PDF)",
+        "Description": "ICMR-PDF Scheme is instituted to foster high-quality research opportunities for promising fresh Ph.D./MD/MS holders in basic science, communicable and non-communicable diseases, and reproductive health including nutrition at ICMR Institutes/Centers. The fellowship aims to support fundamental research in cutting-edge areas of science and other priority fields identified by ICMR.",
+        "Eligibility": "Indian nationals only; Fresh PhDs/MD/MS within three years of completing their degree (awarded) as on the last date of the application; Proposed research work should continue the candidate's Ph.D. or MD/MS research work; Maximum age limit is 32 years, relaxable up to 5 years for SC/ST/OBC/PH and women candidates; Deserving candidates may receive an additional 3 years' relaxation based on prior work, publications, and awards.",
+        "Tenure": "Two years, extendable for a maximum of one more year based on outstanding performance.",
+        "Benefits": "\u20b965,000 per month plus HRA as per government rules and NPA as admissible; Contingency grant of \u20b93,00,000 per annum (25% can be used for national travel related to research work); Accommodation may be provided at ICMR Institutes/Centers, but HRA will not be paid in such cases; Medical benefits and leave as per ICMR rules for JRF/Research Associates.",
+        "Application Process": "Offline submission by 30th June or 31st December every year; Visit the official ICMR website to download the application form; Complete the form, ensuring all sections are filled; write 'NA/Nil' where applicable; Attach self-attested copies of required documents; Submit the completed application to the address mentioned in the guidelines.",
+        "Selection Process": "Selection through an interview conducted by a Selection Committee based on publications, citations, and impact factors; Interviews are held at ICMR Headquarters, New Delhi; Applications must be routed through sponsoring ICMR Institutes/Centers.",
+        "Required Documents": "Passport-size Photograph; Attested copy of School Leaving/High School Certificate for date of birth; Attested copies of Mark Sheets/Grade Cards & Degrees; Caste certificate, if applicable; Reprints of publications; One-page summary of Ph.D. thesis; Attested copies of Letter(s) of Acceptance for paper(s) accepted for publication; Detailed research proposal; Testimonials from two referees (one should be the Ph.D. Guide); Plagiarism Check Report verified by ICMR-RIO."
+    },
+    {
+        "Scheme Name": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students",
+        "Description": "The objective of the scheme is to provide financial assistance to Economically Backward Class (EBC) students studying at the post-matriculation or post-secondary stage in India. Scholarships are awarded by the Government of the State/Union Territory to which the applicant belongs. The scheme is designed to enable students to complete their education.",
+        "Eligibility": [
+            "Indian nationals belonging to the General Category (other than Schedule Caste, Schedule Tribe, and Other Backward Classes)",
+            "Students pursuing recognized post-matriculation or post-secondary courses in Government institutions in India",
+            "Students pursuing post-graduate courses in medicine (provided they are not allowed to practice during the course)",
+            "Income from all sources of the student's parents/guardians should not exceed \u20b91,00,000 per annum",
+            "Students must not be studying in commercial pilot license or aviation-related courses",
+            "Only two boys of the same parents/guardians are eligible to receive the scholarship, though this restriction does not apply to girls"
+        ],
+        "Benefits": {
+            "Group A": {
+                "Description": "Degree and Post Graduate level courses including M.Phil., PhD, Post Doctoral research, Engineering, Technology, Medicine, Management, and similar fields.",
+                "Maintenance Allowance": {
+                    "Hostellers": 750,
+                    "Day Scholars": 350
+                }
+            },
+            "Group B": {
+                "Description": "Graduate/Post Graduate courses like Pharmacy, Nursing, Mass Communication, Hotel Management, etc.",
+                "Maintenance Allowance": {
+                    "Hostellers": 510,
+                    "Day Scholars": 335
+                }
+            },
+            "Group C": {
+                "Description": "General courses leading to a graduate degree like BA, B.Sc., B.Com.",
+                "Maintenance Allowance": {
+                    "Hostellers": 400,
+                    "Day Scholars": 210
+                }
+            },
+            "Group D": {
+                "Description": "Non-degree courses like ITI courses, senior secondary certificates, vocational courses, and others.",
+                "Maintenance Allowance": {
+                    "Hostellers": 260,
+                    "Day Scholars": 160
+                }
+            },
+            "Additional Benefits": {
+                "Reader Charges": {
+                    "Group A & B": 175,
+                    "Group C": 130,
+                    "Group D": 90
+                },
+                "Study Tours": "Up to \u20b9900 per annum for professional and technical courses (based on actual expenditure).",
+                "Thesis Typing/Printing": "Up to \u20b91,000 for research scholars (based on recommendation).",
+                "Fees": "Scholarship covers compulsory fees such as enrollment, tuition, library, medical, etc., but excludes refundable deposits."
+            }
+        },
+        "Duration of Awards": "The scholarship is tenable from the stage at which it is granted until the completion of the course, subject to good conduct and attendance.",
+        "Renewal of Awards": "Scholarships are renewable annually if the student progresses to the next class of the same course, subject to performance and attendance.",
+        "Application Process": {
+            "Step 1": "Visit the National Scholarship Portal, click 'New Registration', read and accept the terms, then click 'Continue'.",
+            "Step 2": "Fill in the registration form and submit it to receive your Application ID and password.",
+            "Step 3": "Log in using the Application ID and password. Reset the password if necessary and proceed to the Applicant's Dashboard.",
+            "Step 4": "Complete the application form, upload required documents, and submit the application."
+        },
+        "Documents Required": [
+            "Application form (fresh or renewal, as per the guidelines of the concerned State/UT)",
+            "Passport-size photograph with the student's signature",
+            "Attested copies of certificates/degrees of all examinations passed",
+            "Income certificate from an authorized Revenue Officer (not below the rank of Tehsildar)",
+            "Acknowledgment of scholarship received in the previous year (if applicable)"
+        ],
+        "Exclusions": [
+            "Not available for aviation-related courses like Commercial Pilot Licence (CPL)",
+            "Not available for students studying in the same stage of education in a different subject (e.g., I.Sc. after I.A. or B.Com. after B.A.)",
+            "Not available for students pursuing a second degree in a different professional line (e.g., LLB after B.Ed.)"
+        ]
+    },
+    {
+        "Scheme Name": "Savitribai Jyotirao Phule Fellowship for Single Girl Child (SJSGC)",
+        "Description": "The fellowship is provided by the University Grants Commission (UGC), Department of Higher Education, for pursuing research work leading to the award of a Ph.D. degree. This fellowship is specifically for the single girl child, i.e., the only girl child in the family without any brother or sister. The scheme is aimed to support the higher education of single girl children in Social Sciences.",
+        "Objectives": [
+            "To support the higher education of single girl children in Social Sciences.",
+            "To recognize the value of observance of the small family norm.",
+            "To recognize the norm of single girl children in society.",
+            "To propagate the concept of single girl child norm.",
+            "To promote single girls in society."
+        ],
+        "Benefits": {
+            "Tenure": {
+                "Duration": "5 years",
+                "Effective From": "1st April of the selection year or actual date of joining, whichever is later",
+                "End": "Up to the date of submission of the Ph.D. Thesis or 5 years, whichever is earlier"
+            },
+            "Financial Assistance": {
+                "Fellowship": {
+                    "JRF": "\u20b9 31,000/- p.m. for initial two years",
+                    "SRF": "\u20b9 35,000/- p.m. for the remaining tenure"
+                },
+                "Contingency": {
+                    "Humanities and Social Sciences": {
+                        "Initial Two Years": "\u20b9 10,000/- p.a.",
+                        "Remaining Tenure": "\u20b9 20,500/- p.a."
+                    },
+                    "Science, Engineering, and Technology": {
+                        "Initial Two Years": "\u20b9 12,000/- p.a.",
+                        "Remaining Tenure": "\u20b9 25,000/- p.a."
+                    }
+                },
+                "Escort Reader Assistance": "\u20b9 3,000/- p.m. for \u2018Divyang\u2019 scholars",
+                "HRA": {
+                    "Hostel Accommodation": "Hostel fees excluding mess, electricity, water charges",
+                    "Non-Availability of Hostel": "Reimbursement for single accommodation rent as per Govt. of India norms",
+                    "Own Accommodation": "HRA as per Govt. of India norms with certificate from institution"
+                },
+                "Medical Assistance": "No separate medical assistance, but medical facilities of the institution can be availed",
+                "Leave": {
+                    "Earned Leave": "Maximum of 30 days per year in addition to public holidays",
+                    "Maternity/Paternity Leave": "As per Govt. of India norms for female scholars",
+                    "Intermittent Break": "Maximum of 1 year, permissible 3 times, no fellowship available during this period",
+                    "Academic Leave": "Permissible for 1 year, counted towards tenure, no fellowship available"
+                }
+            }
+        },
+        "Eligibility": {
+            "Single Girl Child": "Only the single girl child of the parents",
+            "Ph.D. Program": "Must be enrolled in a regular, full-time Ph.D. program",
+            "Mode": "Not applicable for part-time/distance mode",
+            "Age Limit": {
+                "General Category": "Up to 40 years",
+                "Reserved Categories (SC/ST/OBC/PWD)": "Up to 45 years"
+            },
+            "Terms and Conditions": "Both the scholar and institution must ensure eligibility and adherence to scheme terms"
+        },
+        "Exclusions": [
+            "A girl child in a family with one or more sons and one daughter is not eligible",
+            "Admission to Ph.D. Course in part-time/distance mode is not covered",
+            "Research intended/pursued through open/part-time distance education mode is not eligible"
+        ],
+        "Application Process": {
+            "Online Application": {
+                "Step 1": "Read the guidelines available on the UGC website",
+                "Step 2": "Register on the UGC website by clicking \u2018New User\u2019",
+                "Step 3": "Log in with credentials provided by UGC via email",
+                "Step 4": "Complete the application form by filling in the required details",
+                "Step 5": "Submit eligibility criteria form with required proof",
+                "Step 6": "Provide PG and Ph.D. details in the data capturing format",
+                "Step 7": "Submit application and print the auto-generated form for signatures",
+                "Step 8": "Ensure all details are submitted correctly before final submission"
+            }
+        },
+        "Documents Required": [
+            "Scanned copy of passport-size photograph and signature (size up to 1MB, jpg format)",
+            "Complete Research proposal (up to 5 MB) and abstract (up to 1MB)",
+            "Proof of being a single girl child in the form of an affidavit on \u20b9100/- stamp paper attested by SDM/First Class Magistrate/Tahsildar",
+            "Auto-generated application form signed by the HoD/Registrar of the institution"
+        ]
+    },
+    {
+        "Scheme Name": "Saksham",
+        "Description": "Saksham is a Scholarship Scheme by the Ministry of Education, implemented by AICTE, aimed at providing encouragement and support to specially-abled children to pursue technical education. It provides financial assistance to specially-abled students enrolled in diploma level courses at AICTE-approved institutions. The scholarship covers various expenses such as college fees, books, equipment, and more, for a maximum of 3 years for first-year students and 2 years for second-year lateral entry students.",
+        "Benefits": {
+            "Amount": "\u20b950,000/- per annum for every year of study",
+            "Tenure": {
+                "First Year Admitted Students": "Maximum 3 years",
+                "Second Year Lateral Entry Students": "Maximum 2 years"
+            },
+            "Payment Mode": "Scholarship paid through DBT mode annually",
+            "Renewal": "Scholarship renewed upon submission of passing certificate and letter from the Head of the Institution via National Scholarship Portal"
+        },
+        "Eligibility": {
+            "Admission": "Candidate should be admitted to the First year or Second year (lateral entry) of a Diploma level course in AICTE-approved institutions.",
+            "Disability": "Specially-abled students with a disability of not less than 40%",
+            "Family Income": "Family income should not exceed \u20b98 lakh per annum during the current financial year (Income certificate required)"
+        },
+        "Exclusions": [
+            "Students failing to get promoted to the next class/level forfeit the scholarship.",
+            "Gap period between qualifying examination and diploma admission should not exceed two years.",
+            "Students who fail or drop out in subsequent years are not eligible for further scholarship.",
+            "The scholarship will be discontinued if the student receives financial assistance from any other source."
+        ],
+        "Application Process": {
+            "Online": {
+                "Step 1": "Visit http://www.scholarships.gov.in/ and click 'New Registration'.",
+                "Step 2": "Fill in the registration form with required details and click 'Register'. Your Application ID and password will be displayed.",
+                "Step 3": "Log in to the portal using the Application ID and password. Reset the password and proceed to the applicant's dashboard.",
+                "Step 4": "Click on 'Application Form', fill in the required details, upload documents, and click 'Final Submit'."
+            }
+        },
+        "Documents Required": [
+            "Aadhaar Card",
+            "SSC/10th certificate & mark sheet",
+            "HSC/12th certificate & mark sheet (if applicable)",
+            "ITI certificate & mark sheet (for lateral entry into Diploma level)",
+            "Diploma certificate & mark sheet (for lateral entry into Degree level)",
+            "Category Certificate (if applicable)",
+            "Study/Bonafide Certificate (Appendix-I)",
+            "Annual Family Income Certificate (Appendix-II)",
+            "Promotion Certificate (for renewal, Appendix-III)"
+        ]
+    },
+    {
+        "Scheme Name": "Coaching for SC/ST/OBC (Non-Creamy Layer) & Minority Communities",
+        "Description": "The scheme provides coaching to students belonging to SC, ST, OBC (non-creamy layer), and minority communities to help bridge the educational gap and enhance their competitiveness in pursuing higher education. The scheme includes remedial coaching, coaching for entry into services, and coaching for NET/SET exams, targeting both undergraduate and postgraduate students.",
+        "Objectives": {
+            "Remedial Coaching": {
+                "Target Group": "SC/ST/OBC (Non-Creamy Layer) & Minority Community Students",
+                "Level": "Undergraduate and Postgraduate",
+                "Goals": [
+                    "Improve academic skills and linguistic proficiency",
+                    "Strengthen comprehension of basic subjects",
+                    "Provide training in quantitative and qualitative techniques",
+                    "Offer career guidance and psychological counseling"
+                ]
+            },
+            "Coaching for Entry into Services": {
+                "Target Group": "SC/ST/OBC (Non-Creamy Layer) & Minority Community Students",
+                "Objective": "Prepare students for employment in Group A, B, and C services in Central/State services and private sector, focusing on competitive exams like IAS, State Public Services, Bank recruitment, etc.",
+                "Additional Component": "Development of an Employment Information Cell to provide information on competitive exams"
+            },
+            "Coaching for NET/SET": {
+                "Target Group": "SC/ST/OBC (Non-Creamy Layer) & Minority Community Students",
+                "Objective": "Prepare candidates for NET/SET to increase the number of eligible lecturers in the university system."
+            }
+        },
+        "Benefits": {
+            "Non-Recurring Items": {
+                "Amount": "Up to Rs. 5.0 Lakhs for each scheme during the XII Plan period",
+                "Items": [
+                    "Books and Journals",
+                    "Audio-visual and teaching/learning aids",
+                    "Computers with Printers",
+                    "Photocopier",
+                    "Generator or Inverter"
+                ]
+            },
+            "Recurring Items": {
+                "Amount": "Rs. 7.0 Lakhs per annum for universities",
+                "Items": [
+                    "Honorarium for Coordinator: Rs. 2000/month",
+                    "Remuneration for Teachers and Scholars (Rs. 300/hr for theory, Rs. 150-200/hr for practicals)",
+                    "Part-time Staff with Computer Knowledge: Rs. 6000/month",
+                    "Part-time Peon/Attendant: Rs. 1000/month",
+                    "Contingency: Rs. 50,000/year"
+                ]
+            }
+        },
+        "Eligibility": {
+            "Institutions": "Universities and colleges eligible under Section 2(f) and Section 12(B) of the UGC Act, 1956.",
+            "Student Criteria": [
+                "Sufficient number of SC/ST/OBC (Non-Creamy Layer) & Minority Community students",
+                "General candidates with BPL cards may also apply.",
+                "Up to 40% of OBC (non-creamy layer) and poor general candidates may be considered if sufficient minority students are unavailable."
+            ]
+        },
+        "Application Process": {
+            "Mode": "Offline",
+            "Steps": [
+                "Contact the Registrar/Principal",
+                "Submit application in prescribed format to the concerned department",
+                "Ensure the accuracy of the application form before submission",
+                "After verification, the applicant can avail the benefit."
+            ]
+        },
+        "Documents Required": [
+            "Aadhaar Card",
+            "Caste/Community Certificate",
+            "Academic Transcripts or Mark Sheets",
+            "Bank Account Details"
+        ]
+    },
+    {
+        "Scheme Name": "Junior Research Fellowship (JRF) & Research Associateship (RA) for Foreign Students and Teachers",
+        "Description": "The scheme aims to provide an opportunity for foreign students and teachers from developing countries in Asia, Africa, and Latin America to undertake advanced study and research leading to M.Phil/Ph.D. and postdoctoral research in sciences, humanities, and social sciences at Indian Universities.",
+        "Objectives": {
+            "Main Objective": "To provide an opportunity for foreign students and teachers from developing countries to undertake advanced study and research at Indian Universities."
+        },
+        "Benefits": {
+            "Junior Research Fellowship (JRF)": {
+                "Fellowship": [
+                    "Rs. 12,000/- per month for the first two years",
+                    "Rs. 14,000/- per month for remaining years (subject to committee recommendation)"
+                ],
+                "Contingency": {
+                    "Science": "Rs. 12,000/- per annum for the first two years",
+                    "Humanities and Social Sciences": "Rs. 10,000/- per annum for the first two years",
+                    "Science (remaining period)": "Rs. 25,000/- per annum",
+                    "Humanities (remaining period)": "Rs. 20,500/- per annum"
+                },
+                "Other Assistance": {
+                    "Departmental": "Rs. 3,000/- per annum",
+                    "Escort Allowance": "Rs. 2,000/- per annum",
+                    "Handicapped Allowance": "As per institution rules",
+                    "HRA": "As per the rules of the concerned institution"
+                }
+            },
+            "Research Associateship (RA)": {
+                "Fellowship": "Rs. 16,000/- per month (fixed) for 4 years",
+                "Contingency": "Rs. 30,000/- per annum",
+                "Departmental Assistance": "10% of Associateship to the host institution for infrastructural facilities",
+                "HRA": "As per the rules of the concerned institution"
+            },
+            "Accommodation": {
+                "Hostel": "Single-seated hostel accommodation may be provided or HRA as per university rules",
+                "Own Accommodation": "HRA as per city categorization by Government of India"
+            },
+            "Medical": "No separate medical assistance, but medical facilities available at institutions/universities.",
+            "Leave": {
+                "Annual Leave": "Maximum 30 days, excluding public holidays",
+                "Maternity Leave": "135 days for female awardees as per Government of India rules",
+                "Special Leave": "Leave without fellowship for up to three months (subject to approval)"
+            }
+        },
+        "Eligibility": {
+            "Target Group": "Students and teachers from developing countries in Asia, Africa, and Latin America.",
+            "Junior Research Fellowship (JRF)": {
+                "Age Limit": {
+                    "Male": "35 years as of 1st July",
+                    "Female": "40 years as of 1st July"
+                },
+                "Academic Qualification": [
+                    "High-class master\u2019s degree with a second-class bachelor\u2019s degree or",
+                    "Second-class master\u2019s degree with a first-class bachelor\u2019s degree"
+                ]
+            },
+            "Research Associateship (RA)": {
+                "Age Limit": {
+                    "Male": "40 years as of 1st July",
+                    "Female": "45 years as of 1st July"
+                },
+                "Academic Qualification": [
+                    "Doctorate degree with published research work",
+                    "Evidence of independent research work"
+                ]
+            }
+        },
+        "Exclusions": {
+            "Cancellation of Award": [
+                "Misconduct",
+                "Unsatisfactory progress in research",
+                "Failure in M.Phil/Ph.D. exams",
+                "Ineligibility discovered later"
+            ],
+            "Refund": "The entire fellowship amount must be refunded if discontinued before two years."
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Applications are circulated to Indian embassies/Indian missions abroad.",
+                "Embassies send screened applications to UGC for consideration.",
+                "Foreign students in India may apply through the university they wish to work with.",
+                "Applications must be endorsed by respective embassies for consideration."
+            ],
+            "Approval Procedure": [
+                "Shortlisting committee screens applications.",
+                "Selection committee finalizes JRF and RA proposals.",
+                "Provisional selection intimation is sent to candidates.",
+                "Formal award letter is issued upon political clearance from Ministry of Home Affairs and Ministry of External Affairs."
+            ]
+        },
+        "Documents Required": [
+            "Proof of Nationality",
+            "Proof of Identity",
+            "Proof of Age",
+            "Proof of Address",
+            "Educational Qualifications Proof"
+        ]
+    },
+    {
+        "Scheme Name": "Dr. D.S. Kothari Post Doctoral Fellowships in Sciences",
+        "Description": "Introduced by the University Grants Commission, Dept. of Higher Education, to provide a flexible Post Doctoral Fellowship scheme with fast-track online handling and decision-making.",
+        "Eligibility": "Ph.D. awarded unemployed candidates in relevant subjects with published research work; upper age limit of 35 years, with relaxation for SC/ST/OBC/Women candidates as per Government of India norms.",
+        "Benefits": {
+            "Financial Assistance": {
+                "Fellowship": {
+                    "1st Year": "Rs. 43,800 per month",
+                    "2nd Year": "Rs. 45,000 per month",
+                    "3rd Year": "Rs. 46,500 per month"
+                },
+                "Contingency": "Rs. 1,00,000 per annum"
+            },
+            "HRA": [
+                "Hostel accommodation: Hostel fees (excluding mess, electricity, water charges) reimbursed upon furnishing a certificate.",
+                "Single accommodation in host institution: Rent reimbursed as per actuals up to the ceiling of HRA as per Govt. norms.",
+                "Own accommodation: HRA as per city categorization."
+            ],
+            "Medical": "Access to medical facilities available in the University/Institution/College.",
+            "Leave": [
+                "30 days per year (in addition to public holidays) with approval from the Head of Department.",
+                "Maternity/Paternity leave as per Government of India rules.",
+                "Academic leave up to one year without fellowship for teaching or foreign travel for academic work."
+            ]
+        },
+        "Tenure": "2 years",
+        "Reservation": "Reservation policy for SC/ST/OBC/PH as per Government of India norms.",
+        "Application Process": {
+            "Mode": "Online",
+            "Website": "http://ugcdskpdf.unipune.ac.in/",
+            "Deadline": "Open all year round",
+            "Selection Process": "Applications graded electronically by a peer group. Final decision within 6 weeks of application receipt. Up to 500 awards granted annually."
+        },
+        "Disbursal": {
+            "Mode": "Through UGC-designated Bank",
+            "Steps": [
+                "Submit Joining Report (prescribed format) with Award Letter to designated Canara Bank branch.",
+                "Continuation Certificate every three months to continue receiving fellowship.",
+                "Contingency utilization certificate submitted annually for next year's release.",
+                "HRA certificate every three months for availing House Rent Allowance."
+            ],
+            "Bank": "Canara Bank (Designated branches list on UGC portal)."
+        },
+        "Required Documents": [
+            "Joining Report (prescribed format) signed by Head of Department and countersigned by Registrar.",
+            "Continuation Certificate every three months.",
+            "Contingency utilization certificate (end of each year).",
+            "HRA Certificate every three months."
+        ]
+    },
+    {
+        "Scheme Name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Faculty Fellowship",
+        "Description": "Provides opportunities for 100 young researchers annually with Ph.D. qualifications to carry out independent research in science, technology, medicine, agriculture, pharmacy, and veterinary sciences. The fellowship aims to develop independent scientific profiles and augment high-quality manpower in scientific institutions.",
+        "Eligibility": "Indian citizens or People of Indian Origin with Ph.D. degrees in relevant fields, aged 27-32 years (relaxed for SC/ST/Women up to 37 years, and Divyangjan up to 42 years). Candidates must have a minimum of 60% marks throughout their academic career and publications in reputed journals. Applicants awaiting their Ph.D. award can apply but must secure their degree before selection confirmation.",
+        "Benefits": "Fellowship of \u20b91,25,000 per month with an annual increment of \u20b92,000 and a Research Grant of \u20b97,00,000 per year for five years. The fellowship is taxable as per Indian IT Act.",
+        "Required Documents": "Passport-size photograph, Class X Mark Sheet or Certificate (proof of Date of Birth), Academic certificates from Class XII onwards, Caste Certificate (if applicable), Letter of appointment (if employed), Professional recognitions and awards, Research experience, Budget breakup for research grants, and Endorsements/letters from host institutes."
+    },
+    {
+        "Scheme Name": "Junior Research Fellowship (JRF) - Department of Biotechnology (DBT)",
+        "Description": "The DBT Junior Research Fellowship (JRF) program provides financial support to Indian students pursuing doctoral research in biotechnology and life sciences. It is open to candidates with a master's degree in biotechnology or related fields.",
+        "Eligibility": "1. Applicant must be an Indian citizen. 2. Must have a master's degree in biotechnology or a related field from a recognized university. 3. Should have cleared the GATE or NET exam in biotechnology or a related field. 4. Age limit: 28 years for General and EWS candidates, and 33 years for SC/ST/PH candidates. 5. Must be willing to pursue full-time doctoral research in biotechnology or a related field at a recognized university or research institution in India.",
+        "Benefits": "1. \u20b931,000 per month for the first two years. 2. \u20b935,000 per month for the remaining three years.",
+        "Required Documents": "1. BET exam scorecard. 2. Research proposal. 3. No Objection Certificate (NOC) from the current employer (if applicable). 4. Passport-size photograph. 5. Signature. 6. Date of birth proof. 7. Academic transcripts for all degrees obtained. 8. Category certificate (if applicable). 9. Persons with Disability (PWD) certificate (if applicable).",
+        "Application Process": {
+            "Steps": [
+                "Qualify in the Biotechnology Eligibility Test (BET): The BET is a national-level exam conducted by the Department of Biotechnology, held annually in June. Candidates must have a valid GATE or NET score to apply.",
+                "Apply online for the DBT-JRF program: After qualifying in BET, create an account on the DBT website, fill in the required details, and upload the necessary documents. The application window is typically open from July to August.",
+                "Appear for the interview: Shortlisted candidates will attend an interview based on their research proposal and knowledge of biotechnology and life sciences.",
+                "Check the final selection list: The final selection list will be announced online on the DBT website a few weeks after the interview."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "Scholarships to Students with Disabilities Scheme",
+        "Description": "The scheme, initiated by the Department of Social Security and Women & Child Development, Government of Punjab in 1996, aims to assist students with disabilities in securing education, academic, technical, or professional training to help them earn a living and integrate as contributing members of society. It is fully state-sponsored.",
+        "Eligibility": "1. Applicant must be a student in Punjab with a disability of 40% or more (as per the RPwD Act 2016). 2. The monthly family/guardian income should not exceed \u20b95,000/- per month. 3. The candidate should have secured at least 40% marks in the previous annual examination. 4. Applicable for students with disabilities from 1st class onwards.",
+        "Benefits": "1. \u20b9200/- per month for students with disabilities from class 1 to 8. 2. \u20b9300/- per month for students with disabilities from class 9 and onwards. Note: The scholarship will be credited directly to the student's bank account.",
+        "Required Documents": "1. Disability Certificate/ UDID showing 40% or more disability. 2. Income certificate showing annual family income below \u20b960,000/-. 3. Copy of bank account details.",
+        "Application Process": {
+            "Steps": [
+                "Submit the scholarship application to the Head of the school/college/institution.",
+                "The Head of the institution verifies the application and forwards it to the District Social Security Officer (DSSO) of the respective district."
+            ],
+            "Contact": "Office of the District Social Security Officer"
+        }
+    },
+    {
+        "Scheme Name": "Stipend to Scheduled Caste Trainees in Technical Training Institutions",
+        "Description": "This scheme, implemented by the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, Union Territory of Puducherry, provides financial support to Scheduled Tribe candidates/trainees undergoing training in Government Technical Training Institutions within the Union Territory of Puducherry.",
+        "Eligibility": "1. Candidates/trainees undergoing training in the Government Technical Training Institutions of Puducherry. 2. The candidate must belong to the Scheduled Caste community. 3. There is no income limit to apply under the scheme.",
+        "Benefits": "1. A stipend of \u20b9170/- per month per trainee for the entire duration of the training.",
+        "Required Documents": "1. Identity proof (Aadhaar Card). 2. Passport size photograph. 3. Educational documents (Mark sheets). 4. Caste certificate. 5. Nativity Certificate issued by the Competent Revenue Officials. 6. Bank account details. 7. Any other document, as required.",
+        "Application Process": {
+            "Steps": [
+                "Step 1: Register on the NSP Portal (https://scholarships.gov.in/) by providing accurate information.",
+                "Step 2: After registration, students receive a 'Student Registration ID'.",
+                "Step 3: Login using 'Student Registration ID' and click 'Fresh Application'.",
+                "Step 4: Fill out the application form and click 'Final Submit'.",
+                "Step 5: After submission, a system-generated registration number is sent to students for future reference."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "Post Graduate Indira Gandhi Scholarship For Single Girl Child",
+        "Description": "A scholarship scheme by the University Grants Commission (UGC) for girl students admitted to the first year of PG courses in any designated university or postgraduate college, provided they are the only girl child in their family. The scheme aims to support the postgraduate education of single girl children and promote the value of small family norms.",
+        "Eligibility": "1. The applicant must be a citizen of India. 2. The applicant must be the only girl child in the family. 3. Girl students without brothers or who are twin/fraternal daughters may apply. 4. The age of the applicant should not exceed 30 years at the time of admission to the first year of the PG course. 5. The applicant must have taken admission to a regular, full-time first-year Master\u2019s Degree course in a designated university or postgraduate college. 6. The course must be non-professional, and the student must attend regular classes. 7. Students pursuing education through distance mode are not eligible.",
+        "Exclusions": "1. Admission to PG courses via distance education is excluded. 2. Deemed universities not receiving funds from the Central/State Government are not eligible institutions. 3. If a family has both a son and a daughter, the daughter will not be considered for the scholarship.",
+        "Benefits": "1. \u20b936,200/- per annum for two years, i.e., the full duration of the PG course. 2. 3,000 fresh scholarships are awarded annually and disbursed through DBT mode.",
+        "Required Documents": {
+            "By Student": [
+                "Aadhaar Card",
+                "Proof of admission into a recognized Master\u2019s degree course in an institute located in India recognized by the UGC.",
+                "Joining report (Annexure-I format).",
+                "Affidavit regarding single girl child status (Annexure-II format).",
+                "Copy of the Bank Passbook.",
+                "Birth Certificate or Class 10th Marksheet."
+            ],
+            "By Institution": [
+                "Progress Report after completion of the first year along with the percentage of marks obtained.",
+                "Funds Utilization Certificate after completion of the first year."
+            ]
+        },
+        "Application Process": {
+            "Steps": [
+                "Step 1: Eligible candidates must apply online on the National Scholarship Portal (NSP) after initiation of the application process and notice on the UGC website.",
+                "Step 2: The host institution must verify the online application.",
+                "Step 3: Institutions admitting first-year PG girl students are expected not to charge tuition fees."
+            ],
+            "Notes": [
+                "Applications will be invited annually via the National e-Scholarship Portal.",
+                "Notifications will also be uploaded on the UGC website.",
+                "Incomplete applications will be rejected, and only verified applications will be considered.",
+                "Affidavit regarding single girl child status and joining report must be uploaded as per specified formats."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "Award of Opportunity Cost to Parents of Scheduled Caste Girl Students",
+        "Description": "Implemented by the Adi Dravidar Welfare Department, Government of Puducherry, this scheme aims to financially assist Scheduled Caste parents for sending their daughters to school. It provides opportunity cost compensation to eliminate child labor and encourage education among Scheduled Caste girl students.",
+        "Objective": "To eliminate Scheduled Caste girl child labor and encourage Scheduled Caste parents to send their girl children to educational institutions by compensating for income shortages.",
+        "Eligibility": "1. The student must be a girl studying in Class VI to XII in a Government or Government-recognized institution in Puducherry. 2. The student must belong to the Scheduled Caste community. 3. The girl student and her parent/guardian must be a native of Puducherry by birth or continuous residence for at least 3 years. 4. The annual income of the parents should not exceed \u20b924,000. 5. Opportunity cost is payable only if the girl student has been promoted to the next higher class.",
+        "Benefits": "\u20b93,000/- per academic year is payable to the parents of Scheduled Caste girls studying in Classes VI to XII. This amount is provided in addition to the Pre-Matric Scholarship. The opportunity cost is not payable for re-admitted girls repeating a class due to failure or discontinuance.",
+        "Required Documents": [
+            "Aadhaar Card (Identity proof)",
+            "Passport size photograph",
+            "Educational certificates (Mark sheets)",
+            "Caste certificate",
+            "Income certificate",
+            "Residence-cum-nativity certificate issued by the competent authority",
+            "Bank account details"
+        ],
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 01: Register on the NSP Portal (https://scholarships.gov.in/) by selecting 'New Registration' and providing accurate information.",
+                "Step 02: Obtain a 'Student Registration ID' upon successful registration.",
+                "Step 03: Log in using the 'Student Registration ID' through the 'Fresh Application' option on the NSP Portal.",
+                "Step 04: Access the application form by clicking on the 'Application Form' icon after login.",
+                "Step 05: Complete the application form and click 'Final Submit' to submit it.",
+                "Step 06: Upon submission, a system-generated registration number is provided for future reference."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "India-Afghanistan Fellowship Programme",
+        "Description": "Started in 2010-11, the India-Afghanistan Fellowship Programme supports agricultural human resource development in Afghanistan. It offers fellowships for Afghan nationals to pursue Bachelor's, Master's, and Ph.D. degrees in Indian Agricultural Universities (AUs) in agriculture and allied sciences.",
+        "Objective": "To enhance agricultural human resource development in Afghanistan through formal education and training of Afghan scientists, faculty, and students in India.",
+        "Eligibility": {
+            "General Requirement": "Good knowledge of English for all programmes.",
+            "Bachelor's Degree Programme": {
+                "Academic Qualification": "Passed 10+2 examination with Physics, Chemistry, and Biology/Mathematics or both."
+            },
+            "Master's Degree Programme": {
+                "Academic Qualification": "Four-year Bachelor's degree in agriculture or related subjects.",
+                "Additional Requirements": [
+                    "For M.V.Sc.: Passed B.V.Sc. & A.H. with internship under a 5-year degree programme.",
+                    "For M.Tech.: Passed B.Tech. or B.E. programme.",
+                    "Minimum OGPA: 5.50/10 or equivalent percentage of marks at the Bachelor's degree level."
+                ]
+            },
+            "Doctoral Programme": {
+                "Academic Qualification": "Master's degree in the respective or related subject.",
+                "Minimum OGPA": "6.5/10 or equivalent percentage of marks at the Master's degree level."
+            }
+        },
+        "Benefits": {
+            "Fellowship Amount": {
+                "Bachelor's Degree": "INR 12,000 per month for four years.",
+                "Master's Degree": "INR 12,000 per month for two years.",
+                "Ph.D. Programme": "INR 15,000 per month for three years."
+            },
+            "Other Benefits": [
+                "Provision of research contingency grant: INR 6,000/year for M.Sc. and INR 10,000/year for Ph.D.",
+                "Group insurance coverage under consideration.",
+                "Annual bench fee (USD $2000 per year) covered under the India-Afghanistan Fund."
+            ],
+            "Expenditure Coverage": "Tuition fees, hostel fees, mess, medical, and travel within India are covered using the consolidated fellowship amount."
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Afghan nationals apply through their government for sponsorship.",
+                "Nominations are sent to the Indian Ministry of External Affairs via the Afghan Embassy.",
+                "MEA forwards applications to DARE, Government of India.",
+                "DARE sends applications to ICAR for eligibility verification and recommendations.",
+                "Selected candidates are notified by the respective Indian Agricultural Universities."
+            ]
+        },
+        "Documents Required": [
+            "Original academic qualification documents for verification.",
+            "These documents may need to be deposited with the university and are returned upon course completion."
+        ]
+    },
+    {
+        "Scheme Name": "Young Interns Program (YIP)",
+        "Description": "An internship program by the Government of Rajasthan providing opportunities for youth to gain practical experience in government programs, schemes, and projects.",
+        "Eligibility": "Applicants aged 21 to 30 with postgraduate qualifications (minimum 60% marks) or graduates in Engineering, Medical, Law, CA, or CS streams with minimum 60% marks.",
+        "Benefits": "\u20b930,000 per month stipend, \u20b92,500 per month for laptop and internet support, 12 casual leaves annually.",
+        "Required Documents": "Photograph, Letter of Intent, Domicile Certificate of Rajasthan, Proof of Age, Educational Qualification Certificates, Proof of Experience (if any), Bank Account Details",
+        "Exclusions": "The internship is temporary with no assurance of permanent employment. Misconduct, unsatisfactory performance, or earning remuneration during the internship may result in termination. Interns must submit an internship report upon resignation or face recovery of the stipend."
+    },
+    {
+        "Scheme Name": "Technology Development & Utilization Programme for Women (TDUPW)",
+        "Description": "A program by DSIR to promote technology development, utilization, and capability building specifically for women.",
+        "Eligibility": {
+            "For Projects": [
+                "Studies/surveys for assessing technology-related information needs of women.",
+                "Documentation and content development on technologies beneficial to women, including food processing, water conservation, health, and hygiene.",
+                "Establishing consultancy cells for imparting technical knowledge.",
+                "Awareness creation and training for women in production activities and community management.",
+                "Case studies of successful R&D, technology development, and businesswomen."
+            ],
+            "For Institutions": [
+                "Organizations in the government, non-government, or professional sectors working on women's technology development.",
+                "Institutions receiving annual grants from central/state government agencies, universities, R&D institutions, public sector undertakings, or registered under the Societies Registration Act, Companies Act, or Indian Trusts Act.",
+                "Professional and industry associations."
+            ]
+        },
+        "Benefits": {
+            "Duration": "Time-bound projects, typically under two years.",
+            "Quantum of Financial Assistance": [
+                "Financial support (partial or full) for expenses such as manpower, consumables, travel within the country, and miscellaneous expenditures.",
+                "Assistance excludes infrastructure and building costs."
+            ],
+            "Release of Funds": "Released in instalments based on milestones achieved and formalities like progress reports and utilization certificates."
+        },
+        "Required Documents": [
+            "Letter of forwarding the project proposal and undertaking from the institution head.",
+            "Certificate of Responsibility and Commitment from Investigators.",
+            "Technical and financial details of the proposal.",
+            "For non-government institutions: Registration Certificate, Annual Report (last 3 years), Auditor\u2019s Report (last 3 years)."
+        ],
+        "Application Process": {
+            "Mode": [
+                "Offline",
+                "Online"
+            ],
+            "Offline Process": {
+                "Submission": "Send hard copy of proposals to Dr. Sujata Chaklanobis, Scientist 'G', DSIR, Technology Bhawan, New Mehrauli Road, New Delhi-110016.",
+                "Evaluation and Sanction": "Proposals reviewed by a Technical Advisory Committee (TAC) with potential advice from internal/external experts. Accepted projects receive financial approval and a sanction letter with conditions."
+            },
+            "Online Process": {
+                "Submission": "Submit applications online through the Rajasthan Single Sign-On (SSO) Portal.",
+                "Steps": [
+                    "Login to the SSO Portal and fill out the application form.",
+                    "Upload required documents including photograph, Letter of Intent, proof of age, educational qualifications, and experience.",
+                    "Submit the application after reviewing the information."
+                ],
+                "Evaluation and Sanction": "Applications are scrutinized by respective departments. Eligible candidates are invited for Group Discussion (G.D.) and Personal Interview (P.I.)."
+            }
+        }
+    },
+    {
+        "Scheme Name": "Top Class Education For Students With Disabilities",
+        "Description": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) pursuing studies beyond class 12th in a full-time course in notified institutions. It aims to support SwDs in pursuing higher education and achieving a dignified place in society.",
+        "Eligibility": {
+            "Student": [
+                "Admitted in a full-time course in a notified institution.",
+                "Percentage of disability should be 40% or above.",
+                "Pursuing a Graduate or Post Graduate Degree or Diploma.",
+                "Total annual income of Parent/Guardian should be \u2264 \u20b96.00 Lakh.",
+                "Not more than two children with disabilities in the same family can avail of the scholarship."
+            ]
+        },
+        "Benefits": {
+            "Tuition Fee": "Full tuition fee and non-refundable charges (Ceiling of Rs. 2.00 LPA per student for private institutions).",
+            "Living Expenses": "\u20b9 3000 per month per student.",
+            "Books and Stationery": "\u20b9 5000 per annum per student.",
+            "Computer/Laptop": "\u20b9 30,000 per student (one-time assistance).",
+            "Assistive Devices": "\u20b9 30,000 per student (one-time reimbursement).",
+            "Special Allowance": "\u20b9 2000 per month (related to disability types like Reader, Escort, Helper Allowance, etc.)."
+        },
+        "Assistive Devices": {
+            "For Blind/Low Vision": [
+                "Braille / Brailer Typewriter",
+                "Laptop with Screen reading software",
+                "Laptop with Screen Magnification software",
+                "Talk software for mobile accessibility",
+                "DAISY Recorder and player"
+            ],
+            "For Hearing Impaired": [
+                "Binaural digital programmable hearing aid",
+                "Cell phone with SMS SIM Card",
+                "Laptop with WiFi (Blue Tooth) facility"
+            ]
+        },
+        "Exclusions": [
+            "Not more than two children with disabilities from the same parents can avail the scholarship. In case the second child is a twin, both can receive the scholarship.",
+            "Scholarship will be cancelled if obtained through false statements, and the student will be blacklisted for future schemes.",
+            "If the student changes the course of study, the scholarship will be invalid unless approved by DEPwD.",
+            "No scholarship will be given for a repeated class."
+        ],
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 1: Prepare soft copies of the required documents. Visit http://www.scholarships.gov.in/ and click 'New Registration'. Accept the terms and click 'Continue'.",
+                "Step 2: Complete the Registration Form, providing all mandatory details. Your Application ID and password will be displayed and sent via SMS.",
+                "Step 3: Login to the portal using your Application ID and password. Enter OTP for password reset and access the Applicant's Dashboard.",
+                "Step 4: Click 'Application Form' on the left pane, fill out all mandatory details, and upload the necessary documents. Save as Draft or click 'Final Submit' to complete the application."
+            ]
+        },
+        "Documents Required": [
+            "Income Certificate",
+            "Domicile Certificate",
+            "Self-attested Degree/Mark Sheet of the last qualifying exam",
+            "Fee Receipt of Current Course Year",
+            "Bank Details of the applicant or of the Parent/Guardian",
+            "Aadhaar Number",
+            "Bonafide Student Certificate from the school/institute",
+            "Recent color photograph of the candidate",
+            "Certificate of Disability (issued by a competent authority)",
+            "Declaration Certificate (issued by HoD or competent authority)"
+        ]
+    },
+    {
+        "Scheme Name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) Fellowship",
+        "Description": "The INSPIRE Fellowship is part of the INSPIRE scheme by the Department of Science and Technology (DST), Government of India, aimed at attracting students to pursue doctoral degrees in basic and applied sciences, including engineering, medicine, agriculture, veterinary sciences, and pharmacy.",
+        "Benefits": {
+            "Duration": "Up to five years from the Effective Date or completion of the Ph.D. program, whichever is earlier.",
+            "HRA": "Applicable as per GoI norms depending on the location of the Host Institute.",
+            "Contingency Expenditure": "\u20b920,000 per annum with a maximum ceiling of \u20b920,000 for the unspent balance adjusted to the next year.",
+            "Internship": "Short-term Research Internship (up to 18 months) at any national or international lab/university/institute during the 5-year tenure.",
+            "Upgradation": "Fellowship can be upgraded from JRF to SRF after 2 years, or 1 year if research paper acceptance is received.",
+            "Payment Mode": "Transferred through PFMS to the student\u2019s host institute\u2019s ZBSA Bank Account, which then transfers the fellowship to the student's account."
+        },
+        "Eligibility": {
+            "Primary Eligibility": [
+                "1st Rank Holders in any recognized University/Institution in PG level examinations in Basic/Applied Sciences, Engineering, Pharmacy, Agricultural Sciences, Veterinary Sciences.",
+                "1st Rank Holders in Medicine at Graduate/Post-Graduate level conducted by an Indian University/Institution.",
+                "INSPIRE Scholars with at least 70% marks (or CGPA equivalent) in M.Sc./Integrated M.S./M.Sc. or equivalent."
+            ],
+            "Additional Notes": [
+                "Fulfilling eligibility criteria does not guarantee final fellowship award.",
+                "Selection based on academic merit, research proposal, supervisor\u2019s credentials, and host institution."
+            ]
+        },
+        "Post-Selection Eligibility": {
+            "Conditions": [
+                "Update DST on research progress during the fellowship.",
+                "Fellow may assist host institution with academic activities, but research should remain the primary focus.",
+                "Research work must be completed within the 5-year tenure to meet research objectives.",
+                "Acknowledge DST's support in all publications, patents, and the Ph.D. thesis.",
+                "Submit soft copies of publications and thesis to DST."
+            ]
+        },
+        "Exclusions": [
+            "1st Rank Holders from College/Autonomous College Examinations.",
+            "Students with degrees obtained through Distance Education Mode.",
+            "1st Rank Holders in M.Sc. 2nd year/last year.",
+            "Students receiving multiple fellowships concurrently."
+        ],
+        "Termination Conditions": [
+            "Non-acceptance of Final Offer within 30 days.",
+            "Successful Ph.D. viva-voce or completion of 5 years of fellowship.",
+            "Resignation from the fellowship based on supervisor's recommendation and DST's acceptance.",
+            "Change of host institution without DST approval.",
+            "Ineligibility due to incorrect information/documents."
+        ],
+        "Application Process": {
+            "Mode": "Online",
+            "Portal": "https://www.online-inspire.gov.in",
+            "Steps": [
+                "Step 1: Log in with your registered email ID and password.",
+                "Step 2: Click on 'Fellowship' link and then 'Apply for Fellowship'.",
+                "Step 3: Fill out personal details, educational qualifications, eligibility, and Ph.D. enrollment details.",
+                "Step 4: Agree to the declaration, enter CAPTCHA, and click 'Submit'.",
+                "Step 5: Note your reference number for future communication."
+            ],
+            "Selection Process": "Two-tier selection process: internal screening followed by expert committee review. Final selection is expected within 6 months from application submission."
+        },
+        "Documents Required": [
+            "Passport size photograph",
+            "Xth Class certificate",
+            "Mark sheets for educational qualifications (12th Std., UG & PG Program)",
+            "First Rank Certificate (if not an INSPIRE Scholar)",
+            "Appointment letter (if employed)",
+            "Ph.D. Admission Letter (if enrolled in Ph.D.)",
+            "Fee Receipt",
+            "Endorsement Letter",
+            "Research write-up",
+            "Curriculum vitae of supervisor",
+            "No Objection Certificate (NOC) for change of host institution"
+        ],
+        "Special Conditions": {
+            "Internship": "Report, joining letter, and financial statement required after internship.",
+            "Completion of Fellowship": [
+                "Ph.D. degree certificate",
+                "Statement of Expenditure (SE) and Utilization Certificate (UC) for the fellowship duration.",
+                "Unspent balance receipt (if any) to be remitted to the Consolidated Fund of India."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "Pre Matric Scholarship for Students with Disabilities",
+        "Description": "This scholarship is for students with disabilities studying in Class 9th or 10th in a government-recognized school. The scheme is aimed at providing financial support to students with disabilities to continue their education and find opportunities for a dignified life.",
+        "Benefits": {
+            "Maintenance Allowance": {
+                "Day Scholars": "\u20b9500 per month",
+                "Hostellers": "\u20b9800 per month"
+            },
+            "Book Grant": "\u20b91000 per annum",
+            "Disability Allowances": {
+                "Visually Impaired": "\u20b94000 per annum",
+                "Hearing Impaired": "\u20b92000 per annum",
+                "Physically Disabled (OH)": "\u20b92000 per annum",
+                "Intellectual Disabilities": "\u20b94000 per annum",
+                "Other Disabilities": "\u20b92000 per annum"
+            }
+        },
+        "Eligibility": {
+            "Age & Class": "The applicant must be studying in Class 9th or 10th.",
+            "Disability": "The applicant must have a disability of 40% or more.",
+            "Income Limit": "The total annual income of the parents/guardians should not exceed \u20b92.00 Lakh.",
+            "Exclusivity": "The applicant must not be availing of any other government scholarship, and must not be the third sibling receiving this scholarship."
+        },
+        "Exclusions": [
+            "Scholarship will not be given to more than two students from a family.",
+            "A student cannot hold any other scholarship or stipend.",
+            "If false information/documents are provided, the scholarship will be revoked and recovery will be made with 15% compound interest.",
+            "If a student repeats a class, no scholarship will be granted for that class."
+        ],
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 1: Go to http://www.scholarships.gov.in/ and click 'New Registration'. Read the guidelines and accept the terms. Click 'Continue'.",
+                "Step 2: Fill in the Registration Form, ensuring all compulsory fields are completed. Click 'Register'. A confirmation will be sent with your Application ID and password.",
+                "Step 3: Go to https://scholarships.gov.in/fresh/newstdRegfrmInstruction and click 'Login to Apply'. Enter your Application ID and password, and complete the OTP verification.",
+                "Step 4: Fill in the application form by entering the necessary details and uploading the required documents. Click 'Save as Draft' if you want to complete it later, or 'Final Submit' to submit your application."
+            ]
+        },
+        "Documents Required": [
+            "Photograph",
+            "Proof of Age",
+            "Certificate of Disability (issued by the competent authority)",
+            "Income Certificate",
+            "Tuition Fee Receipt",
+            "Last academic qualification certificate",
+            "Bank Details (of the applicant or Parent/Guardian)"
+        ],
+        "Institution Registration": "The institution where the applicant is studying must also register at the National Scholarship Portal (NSP) and verify the candidate's details."
+    },
+    {
+        "Scheme Name": "Prime Minister\u2019s Scholarship Scheme (PMSS) for Railway Protection Force (RPF)",
+        "Description": "Introduced by the Hon\u2019ble Prime Minister of India in 2005 and implemented from 2008-09, the PMSS is aimed at encouraging higher technical and professional education for the dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the rank of Gazetted officer).",
+        "Scholarship Available": {
+            "Total Scholarships": 150,
+            "Female Scholarship Quota": 75,
+            "Zonal Quotas": {
+                "CR+KRCL": 10,
+                "ECoR": 6,
+                "ECR": 8,
+                "ER": 16,
+                "NCR+CORE": 6,
+                "NER": 6,
+                "NFR": 8,
+                "NR+JR RPF Academy + RDSO": 16,
+                "NWR+Construction": 4,
+                "SCR": 6,
+                "SECR": 4,
+                "SER": 10,
+                "SR+ICF": 10,
+                "SWR": 4,
+                "WCR": 4,
+                "WR": 10,
+                "RPSF": 22
+            }
+        },
+        "Benefits": {
+            "Male Scholarship": "\u20b92500 per month",
+            "Female Scholarship": "\u20b93000 per month",
+            "Special Letter": "Letter from the Hon\u2019ble Prime Minister",
+            "Duration": "Two to five years as per the duration of the course"
+        },
+        "Eligibility": {
+            "Applicants": "Dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the rank of Gazetted officer).",
+            "Educational Qualification": "Minimum 60% in MEQ (12th Std./Diploma/Graduation).",
+            "Scholarship Limit": "Two wards per family.",
+            "Course Limitations": "Only regular courses from institutes/universities/colleges with AISHE recognition. No distance learning courses.",
+            "Courses Eligible": [
+                "BE/B.Tech",
+                "BDS",
+                "MBBS",
+                "B.Ed",
+                "BBS",
+                "BCA",
+                "MCA",
+                "B. Pharma",
+                "MBA (Master Degree)",
+                "Other Government Recognized Professional Degree Courses"
+            ],
+            "Nationality": "Students studying abroad are not eligible."
+        },
+        "Order of Preference": [
+            "Category I: Wards/widows of ex-RPF/RPSF personnel who died in encounters with terrorists or criminals or during election work.",
+            "Category II: Wards/widows of ex-RPF/RPSF personnel who died while in service.",
+            "Category III: Wards of ex-RPF/RPSF (retired) personnel.",
+            "Category IV: Wards of serving RPF/RPSF personnel."
+        ],
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 1: Go to the National Scholarship Portal and select 'Central Schemes' > 'Ministry of Railway'.",
+                "Step 2: Register as a new user by filling in the Registration Form.",
+                "Step 3: After registration, login using the Student Registration ID.",
+                "Step 4: Complete the application form and submit.",
+                "Step 5: On successful submission, a system-generated registration number will be sent."
+            ],
+            "Post-Application Process": [
+                "Zonal Railways verify the applications for eligibility.",
+                "Scholarship amounts are credited to the applicant's bank account via PFMS under the DBT system."
+            ]
+        },
+        "Documents Required": {
+            "For Fresh Applicants": [
+                "Service Certificate from respective offices (Category IV).",
+                "PPO/Discharge certificate/book (Categories I, II, III).",
+                "Mark sheet/Grade card of MEQ (12th/Diploma/Graduation).",
+                "Aadhaar card.",
+                "Bank account details."
+            ],
+            "For Renewal Applicants": [
+                "Latest Service Certificate from respective offices (Category IV).",
+                "Previous class mark sheet/Grade card/Proof of gradation."
+            ]
+        },
+        "Important Notes": [
+            "Maximum of two registrations can be made with a single mobile number.",
+            "The college/institute/university must be AISHE registered.",
+            "Scholarship will be credited via the Direct Benefit Transfer (DBT) system."
+        ]
+    },
+    {
+        "Scheme Name": "Free Education for Sports Medal Winners / Participants of National/International Events",
+        "Description": "This scheme provides financial assistance to medal winners and elite sports persons who participate in national or international sporting events and are studying in full-time regular courses at recognized universities/colleges. The objective is to motivate sports persons to achieve higher levels of performance by assisting them financially for education and sports development.",
+        "Aims and Objectives": [
+            "Provide financial assistance to medal winners and elite sports persons studying in Universities/Colleges offering full-time regular courses.",
+            "Motivate sports persons to achieve higher levels of performance in both education and sports."
+        ],
+        "Eligibility": {
+            "Eligible Candidates": "Medal winners in national games or participants in recognized international sporting events.",
+            "Institutions": [
+                "Universities/Institutions/Colleges under sections 2(f) and 12(b) of the UGC Act, 1956.",
+                "Deemed to be Universities under section 3 of the UGC Act, 1956.",
+                "Universities/Institutions/Colleges funded by Central/State Government.",
+                "Institutes of National Importance."
+            ],
+            "Subsequent Eligibility": "Scholarship eligibility in subsequent years depends on the student\u2019s performance in both sports and academics."
+        },
+        "Exclusions": [
+            "Misconduct by the candidate as reported by the University/College/Institution.",
+            "Unsatisfactory progress in academics, such as frequent failures in examinations."
+        ],
+        "Benefits": {
+            "Olympics/World Championships (more than 20 countries)": {
+                "Tuition Fee and Other Funds": "Actual",
+                "Hostel Facilities": "Actual",
+                "Allowances for Special Courses Abroad": "As per Government of India\u2019s norms",
+                "Kit": "\u20b915,000 per annum",
+                "Ph.D. and Professional Courses": "\u20b97,500 per month + Actual"
+            },
+            "Olympics/World Championships (less than 20 countries), Commonwealth, Asian, Afro-Asian Games": {
+                "Tuition Fee and Other Funds": "Actual",
+                "Hostel Facilities": "Actual",
+                "Allowances for Special Courses Abroad": "As per Government of India\u2019s norms",
+                "Kit": "\u20b910,000 per annum",
+                "Ph.D. and Professional Courses": "\u20b97,500 per month + Actual"
+            },
+            "Asian Championships, World University Games, SAF Games": {
+                "Tuition Fee and Other Funds": "Actual",
+                "Hostel Facilities": "Actual",
+                "Allowances for Special Courses Abroad": "As per Government of India\u2019s norms",
+                "Kit": "\u20b97,500 per annum",
+                "Ph.D. and Professional Courses": "\u20b97,500 per month + Actual"
+            },
+            "National Level Competitions, SAF Games": {
+                "Tuition Fee and Other Funds": "75% of Actual",
+                "Hostel Facilities": "Actual",
+                "Allowances for Special Courses Abroad": "As per Government of India\u2019s norms",
+                "Kit": "\u20b96,000 per annum",
+                "Ph.D. and Professional Courses": "\u20b95,000 per month + Actual"
+            }
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 1: Visit the online portal at 'http://www.ugc.ac.in/page/XII-Plan-Guidelines.aspx'.",
+                "Step 2: Submit an online application and upload a certificate of participation/medal winner attested by Registrar/Principal/Director.",
+                "Step 3: The amount will be reimbursed by UGC through the Direct Benefit Transfer (DBT) mode."
+            ],
+            "Note": "Incomplete applications will not be considered. Candidates must apply strictly as per the instructions provided on the online portal."
+        },
+        "Documents Required": {
+            "By Candidate": [
+                "Application in the prescribed format for the scholarship.",
+                "Certificate of participation/medal winner attested by Registrar/Principal."
+            ],
+            "By University/College/Institution": [
+                "Statement with names of selected students and receipt of scholarship amount.",
+                "Progress Report after completion of the first year in terms of sports performance and academics.",
+                "Utilization certificate for previous grant released.",
+                "Certificate from the Director/Head of Department justifying the continuance of the scholarship, forwarded by Registrar/Principal."
+            ]
+        },
+        "Cancellation of Scholarship": [
+            "Misconduct or failure in exams can lead to the termination of the scholarship.",
+            "The decision of the UGC in terminating the scholarship is final and binding."
+        ]
+    },
+    {
+        "Scheme Name": "Indian Agricultural Research Institute - Scholarship",
+        "Description": "The scholarship provides financial support to students enrolled in M.Sc. and Ph.D. courses at the Indian Agricultural Research Institute (IARI). The awards are based on merit and performance at the Post Graduate School, with a duration of up to two years for M.Sc. students and three years for Ph.D. students. Extensions may be granted in exceptional cases.",
+        "Duration": {
+            "M.Sc. Course": {
+                "Normal Duration": "2 years",
+                "Extension": "Up to 3 months with exceptional justification",
+                "Total Duration (with extension)": "Maximum 3 years and 3 months"
+            },
+            "Ph.D. Course": {
+                "Normal Duration": "3 years",
+                "Extension": "Up to 6 months with exceptional justification",
+                "Total Duration (with extension)": "Maximum 4 years and 6 months"
+            },
+            "Introductory Course on Agriculture": {
+                "Additional Scholarship Duration": "1 year"
+            }
+        },
+        "Eligibility": {
+            "M.Sc./M.Tech. (Agricultural Engineering)": {
+                "Educational Qualification": "Bachelor's degree under 10+2+4, 10+2+3, or 10+1+4 system. B.Sc. degree under 10+2+2 system prior to 1985."
+            },
+            "Ph.D. Courses": {
+                "Minimum Marks Required": "60% or OGPA of 7.50 out of 10 for General/OBC candidates, 55% or OGPA of 7.00 out of 10 for SC/ST/PC candidates."
+            },
+            "General Eligibility": {
+                "Nationality": "Indian nationals or persons domiciled in India",
+                "Age Limit": "Minimum age for Ph.D. admission: 21 years as of 31st July of the year of admission",
+                "Other Criteria": "Fellows must devote full time to study and cannot hold another paid or unpaid appointment."
+            }
+        },
+        "Benefits": {
+            "M.Sc. Scholarship": {
+                "Monthly Stipend": "\u20b97,560",
+                "Contingent Grant": "\u20b96,000 per academic year"
+            },
+            "Ph.D. Scholarship": {
+                "Monthly Stipend": "\u20b910,500",
+                "Contingent Grant": "\u20b910,000 per academic year"
+            },
+            "In-Service Candidates": {
+                "Stipend Adjustment": "Scholarship amount adjusted to \u20b93,000 per month in addition to full leave salary for in-service candidates on study leave."
+            }
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 1: Request application form and Information Bulletin by sending a crossed Demand Draft for \u20b9575 (or \u20b9500 for SC/ST/PC candidates) to the Registrar, Post Graduate School, IARI.",
+                "Step 2: Alternatively, purchase the application form and Information Bulletin at Syndicate Bank, Pusa Campus for \u20b9500 (\u20b9250 for SC/ST/PC candidates).",
+                "Step 3: Alternatively, download the application form from the IARI website and send it with the appropriate Demand Draft.",
+                "Step 4: Employed candidates must submit their application through their employer."
+            ],
+            "Contact Information": "Registrar, Post Graduate School, Indian Agricultural Research Institute, New Delhi 110 012"
+        },
+        "Documents Required": [
+            "Proof of date of birth",
+            "Matriculation (10th) certificate and mark sheet",
+            "Higher Secondary (12th) certificate and mark sheet (if applicable)",
+            "Bachelor's degree certificate and mark sheet",
+            "Master's degree certificate and mark sheet (for Ph.D. applicants)",
+            "Course Completion Certificate",
+            "Caste Certificate",
+            "Two passport-size photographs"
+        ]
+    },
+    {
+        "Scheme Name": "Scholarship to 2 Years Pre-Service Student Teachers undergoing D.El.Ed Programme at DIETs and CTTC Sohra",
+        "Description": "Launched by the Department of Education, Government of Meghalaya in April 2012, this scholarship aims to attract the best talent to pursue teaching as a profession. It provides financial support to students undertaking the D.El.Ed programme at DIETs and CTTC Sohra, with a focus on improving the quality of education in rural areas.",
+        "Objectives": [
+            "To attract the best talent to take up teaching as a profession.",
+            "To provide high-quality education services to students in rural areas.",
+            "To enhance students' learning outcomes by addressing specific workforce needs.",
+            "To provide additional resources to DIETs for areas not covered by the Central Sponsored Scheme (CSS)."
+        ],
+        "Structure of Entrance Test": {
+            "Format": "Written examination consisting of multiple choice questions.",
+            "Details": [
+                "Each question carries one mark.",
+                "No negative marking for incorrect answers.",
+                "Aptitude towards the teaching profession will be tested."
+            ]
+        },
+        "Benefits": {
+            "Scholarship Amount": "\u20b95000 per month",
+            "Duration": "2 years (10 months per year)"
+        },
+        "Eligibility": {
+            "Residency": "Permanent resident of Meghalaya.",
+            "Age Limit": "18 to 27 years (Relaxation of 5 years for SC/ST/OBC/PWD candidates).",
+            "Educational Qualifications": {
+                "Class XII": "Passed or equivalent examination with 50% marks (5% relaxation for ST/SC/OBC/PWD).",
+                "Waiting for Results": "Candidates awaiting Class XII results can apply, with the condition to produce provisional/original documents during counseling."
+            },
+            "Other Criteria": "Must be interested in becoming a teacher."
+        },
+        "Reservation Policy": {
+            "General": "As per Meghalaya Government Reservation Policy for different communities.",
+            "Persons with Disabilities": "5% of seats reserved.",
+            "Science & Mathematics Background": "At least 30% of seats allotted to candidates with Science and Mathematics backgrounds at Class XII level."
+        },
+        "Marks Allotment for Counseling": {
+            "Academic Marks": {
+                "80-100%": 50,
+                "60-79%": 40,
+                "Below 60%": 30
+            },
+            "Entrance Test Marks": 50,
+            "Personality": 10,
+            "Communication Skills": 10,
+            "Aptitude & Interest towards Teaching": 20,
+            "General Knowledge": 10,
+            "Total Marks": 150
+        },
+        "Selection Procedure": {
+            "1": "Entrance Test",
+            "2": "Counseling",
+            "3": "Merit-based selection as per block quota",
+            "Note": "Preference to be given to the waiting list from other districts if the number of selected candidates is less than the intake capacity."
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Step 1: Register on the NSP Portal (https://scholarships.gov.in/) using 'New Registration' and provide accurate information.",
+                "Step 2: After successful registration, note the 'Student Registration ID'.",
+                "Step 3: Login to the NSP Portal using 'Student Registration ID' and select 'Fresh Application'.",
+                "Step 4: Fill out the application form and click 'Final Submit'.",
+                "Step 5: After submission, a system-generated registration number will be sent for future reference."
+            ]
+        },
+        "Documents Required": [
+            "Identity proof (Aadhaar Card)",
+            "Birth Certificate",
+            "Class XII passed/provisional certificate",
+            "Recent passport-size photograph",
+            "Domicile certificate",
+            "Caste certificate",
+            "Bank details"
+        ],
+        "Note": "Selected candidates must open an account at the State Bank of India in the districts they are selected for."
+    },
+    {
+        "Scheme Name": "Internship Scheme For PG/Research Students In Directorate General Of Trade Remedies (DGTR)",
+        "Description": "The Internship Scheme by the Directorate General of Trade Remedies (DGTR), Department of Commerce, Ministry of Commerce & Industry, provides an opportunity for young scholars, especially from Law/Economics streams, to learn about trade remedial investigations and trade defence measures.",
+        "Objectives": [
+            "To familiarize PG students and research scholars with trade remedial investigations.",
+            "To provide exposure to trade defense measures."
+        ],
+        "Tenure": {
+            "Minimum Duration": "One month"
+        },
+        "Nature of Internship": {
+            "Mentorship": "Interns will be attached to one officer at DGTR who will act as a mentor and design a suitable schedule.",
+            "Departments": "Interns may be assigned to different Officers, Divisions, or Cells based on the mentor's recommendation and DGTR's discretion."
+        },
+        "Number of Interns": "The number of interns will be decided by DGTR.",
+        "Internship Terms": {
+            "Job Guarantee": "Internship is not a job and does not guarantee employment within DGTR, the Department, or the Government.",
+            "Termination": "DGTR reserves the right to terminate the internship at any time without providing a reason."
+        },
+        "Benefits": {
+            "Certificate of Internship": "Interns will receive a certificate after the successful completion of their internship."
+        },
+        "Stipend": "No financial aid or stipend will be provided by DGTR.",
+        "Eligibility": {
+            "Student Status": "Applicants must be Postgraduate Students or Research Scholars from a recognized University/Institute.",
+            "Course Requirement": "The internship must be a part of the applicant's course curriculum (may extend to a semester) or an additional assignment during annual vacations."
+        },
+        "Application Process": {
+            "Mode": "Offline and Online",
+            "Steps": [
+                "Offline: Interested students should send their application in the prescribed proforma along with their CV (optional) by post or by hand to the General Administration Section, Directorate General of Trade Remedies (DGTR), Ministry of Commerce, Jeevan Tara Building, New Delhi 110001. Applications should be sent at least one month before the intended start date of the internship.",
+                "Online: Interested students may email their application in the prescribed proforma along with their CV (optional) to dgtr-india@gov.in. Applications should be sent at least one month before the intended start date of the internship."
+            ]
+        },
+        "Documents Required": {
+            "At the Time of Application": [
+                "Permission/forwarding letter from the Supervisor or Head of Department of the Institute."
+            ],
+            "At the Time of Completion": [
+                "A brief report/paper summarizing the internship assignment must be presented at the end of the internship."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "Internship Scheme of the Department of Economic Affairs",
+        "Description": "The Department of Economic Affairs offers an internship program to postgraduate and PhD students specializing in Economics, Law, Finance, and Management. The aim is to familiarize students with the process of formulating economic policies at the macro level and to provide them with an opportunity to research specific economic issues such as macro-economic management, capital markets, inflation management, and fiscal policy.",
+        "Eligibility": "The program is open to outstanding candidates pursuing Post Graduation or PhD in Economics, Law, Finance, or Management from universities or institutions ranked within the top 25 according to the National Institutional Ranking Framework (NIRF) or from QS-ranked international universities.",
+        "Benefits": {
+            "Remuneration": "A token remuneration of \u20b910,000 per month for postgraduate students and \u20b920,000 per month for PhD students is provided on satisfactory completion of the internship and submission of the final report/paper.",
+            "Logistics Support": "Interns are provided with necessary office space, computer facilities, and internet access to assist in their research and work.",
+            "Certificate": "A Certificate of Internship is issued to interns on the successful completion of the internship, which includes submission of a report/paper, feedback, and attendance certified by the Divisional Head."
+        },
+        "Duration": "The internship duration is between 3 to 6 months. Due to the short time frame, interns are expected to conduct intense research to achieve the desired results.",
+        "Slots": {
+            "Paid Internships": "A maximum of 15 paid internships are available.",
+            "Unpaid Internships": "An additional 10 unpaid internships are available for top-ranking candidates who were not selected for paid positions."
+        },
+        "Attachment": "Interns are attached to a Joint Secretary, Director, Office of Chief Economic Adviser, or Principal Economic Adviser. They will work under the guidance of a mentor who will provide them with a structured schedule and tasks.",
+        "Post-Selection Conditions": {
+            "Unsatisfactory Performance": "Interns who demonstrate unsatisfactory performance may be relieved from the program prematurely.",
+            "No Job Assurance": "The internship is not a job guarantee, nor does it offer any assurance of permanent employment in the Department of Economic Affairs."
+        },
+        "Exclusions": "This internship program is not available to undergraduate or graduate students outside the specified fields of study.",
+        "Application Process": {
+            "Step 1": "Candidates must register on the MoF-DEA Internship Application Link provided by the Ministry of Finance.",
+            "Step 2": "In the application form, candidates need to provide their area of interest, duration of availability, and three divisions of interest, in order of preference.",
+            "Step 3": "Applications should be submitted only through the web portal; email applications will not be considered."
+        },
+        "Required Documents": [
+            "Passport-sized photograph",
+            "Proof of identity (e.g., Aadhar card or passport)",
+            "Proof of address (e.g., utility bill or bank statement)",
+            "Proof of the latest educational qualification (degree, mark sheets)",
+            "Identity card or proof of enrolment in the postgraduate or PhD program",
+            "Letter of recommendation from the institution",
+            "Bank account details for payment of stipend"
+        ]
+    },
+    {
+        "Scheme Name": "ICAR - Post Matric Scholarship For Scheduled Caste / Scheduled Tribes Candidates",
+        "Description": "The Post-Matric Scholarship scheme by the Indian Council of Agricultural Research (ICAR) aims to support students from Scheduled Castes (SC) and Scheduled Tribes (ST) communities to pursue undergraduate courses in Agriculture and Allied Sciences. The scholarship helps these students complete their Bachelor's Degree programs, including B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), and more.",
+        "Eligibility": "The scholarship is exclusively for SC/ST students, as defined by the Government of India, who have been admitted to Agricultural Universities for any undergraduate degree program in Agriculture and Allied Sciences.",
+        "Benefits": {
+            "Scholarship Amount": "\u20b91,000 per month",
+            "Contingent Grant": "\u20b9750 per annum for tuition fees, purchase of books, uniforms, etc.",
+            "Duration": "The scholarship covers the entire normal duration of the specific degree program."
+        },
+        "Application Process": {
+            "Step 1": "The scholarship and contingent grant amounts will be remitted to the respective agricultural universities on demand, through the Registrar or Comptroller in the prescribed proforma: https://education.icar.gov.in/pdf/format-PMS-2017.pdf",
+            "Step 2": "The scholarship will be disbursed from the date of the student's admission to the course."
+        },
+        "Procedure of Selection": {
+            "Tentative Distribution": "The scholarships will be tentatively allocated to agricultural universities based on the seats reserved for SC/ST candidates.",
+            "Final Allotment": "The actual number of scholarships will be decided based on the number of SC/ST students admitted to each university to ensure equitable distribution."
+        },
+        "Documents Required": [
+            "Student photo",
+            "Aadhaar Number",
+            "Caste Certificate",
+            "Details of Aadhaar linked bank account",
+            "Residential/Domicile Certificate",
+            "Proof of Admission",
+            "Proof of Identity",
+            "Marksheets of the previous qualified examination"
+        ]
+    },
+    {
+        "Scheme Name": "Pre-Matric Scholarship",
+        "Description": "The Pre-Matric Scholarship scheme aims to improve the educational status of students from Other Backward Classes (OBC) in Uttar Pradesh. The scheme provides financial support to OBC students studying in government schools, aided, and recognized educational institutes to encourage their education and reduce dropout rates.",
+        "Eligibility": "The applicant must be a native of Uttar Pradesh, with an annual income of their parents/guardians up to \u20b92 Lakh. The student must be enrolled in government schools, aided, or recognized educational institutes, subject to budget availability.",
+        "Benefits": {
+            "Monthly Scholarship": "\u20b9150 per month for a maximum of 10 months",
+            "Annual Grant": "\u20b9750 as an ad-hoc grant in one go"
+        },
+        "Application Process": {
+            "Step 1": "OBC students need to log in to the website and click on the 'Student Section'.",
+            "Step 2": "Complete the student registration and fill out the application form.",
+            "Step 3": "Print the application form and submit it along with all required documents to the educational institute.",
+            "Step 4": "The educational institute will verify and forward the application.",
+            "Step 5": "The Education Officer will verify and forward the application.",
+            "Step 6": "The state NIC will examine and match the data.",
+            "Step 7": "The District Approval Committee will approve or disapprove the application.",
+            "Step 8": "The District Backward Class Welfare Officer will lock the approved data using a digital signature.",
+            "Step 9": "The Directorate will generate the demand based on the approved data.",
+            "Step 10": "The scholarship amount will be directly deposited into the student\u2019s bank account."
+        },
+        "Documents Required": [
+            "UP Residential Proof (Ration card, Aadhaar card, Voter ID, Driving license, or PAN card)",
+            "Caste Certificate",
+            "Family Income Certificate",
+            "Student ID proof issued by the educational institution",
+            "Mark sheets of qualifying examination",
+            "Current year fee receipt or admission letter issued by the educational institution",
+            "Student bank passbook"
+        ]
+    },
+    {
+        "Scheme Name": "MeitY - Visvesvaraya PhD Scheme For Electronics & IT",
+        "Description": "A scholarship scheme by the Ministry of Electronics and Information Technology to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/ITES sectors in the country.",
+        "Eligibility": "Applicants must have a minimum Grade Point Average of 6.5/10 or 60% in M.E./M.Tech./M.S. or equivalent in relevant fields, or a Bachelor's degree with a valid GATE score or equivalent.",
+        "Benefits": {
+            "Full-Time Ph.D. Candidates": {
+                "Fellowship": "\u20b931,500/month (I & II years); \u20b935,000/month (III to V year), revised to \u20b938,750/month (I & II years); \u20b943,750/month (III to V year)",
+                "Annual Contingency Grant": "\u20b930,000/year for research-related expenses",
+                "Rent Reimbursement": "Up to 30%, 20%, or 10% of the fellowship for different city classifications (X, Y, Z cities)",
+                "International Conference Support": "Up to \u20b950,000 for attending 2 conferences"
+            },
+            "Part-Time Ph.D. Candidates": {
+                "Incentive": "\u20b92,50,000 on successful completion of the Ph.D."
+            },
+            "Young Faculty Research Fellowship (YFRF)": {
+                "Fellowship": "\u20b920,000/month in addition to regular income",
+                "Contingency/Research Grant": "\u20b95,00,000/year for research expenses and conference support"
+            }
+        },
+        "Application Process": "The applicant must print the application form from the institute's website, fill in the required details, attach necessary documents, and email the completed form to the Nodal Officer of the institute.",
+        "Documents Required": [
+            "Date of Birth (DOB) Certificate",
+            "SC/ST/OBC(NCL) Certificate (if applicable)",
+            "Certificate of Physical Disability (if applicable)",
+            "Sponsorship certificate (if applicable)",
+            "Valid GATE/CSIR/UGC score card",
+            "Mark/Grade sheets of qualifying degree",
+            "No Objection Certificate from employer (if part-time/external)",
+            "Two reference letters (for Ph.D. applicants)"
+        ]
+    },
+    {
+        "Scheme Name": "ICAR Post Matric Scholarship For Scheduled Caste / Scheduled Tribes Candidates",
+        "Description": "A scholarship scheme by the Indian Council of Agricultural Research (ICAR) for Scheduled Castes/Scheduled Tribes candidates to study at Bachelor's Degree programs in various branches of Agriculture.",
+        "Eligibility": "Applicant must be an Indian citizen belonging to Scheduled Castes/Scheduled Tribes as defined by the Government of India. Must have been admitted to Agricultural Universities in undergraduate Agriculture & Allied Science programs such as B.Sc. (Agri.), B.V.Sc., B.Sc. (Agril. Engg.), B.Sc. (Home Science), B.F.Sc., B.Sc. (Forestry), etc.",
+        "Benefits": {
+            "Value of Scholarship": "\u20b9300 per month along with \u20b9750 per annum contingent grant for tuition fees, books, uniforms, etc.",
+            "Duration of Scholarship": "The scholarship will cover the normal duration of the degree program.",
+            "Number of Scholarships": "240 scholarships will be awarded annually."
+        },
+        "Exclusions": {
+            "Other Scholarships": "The recipient cannot avail any other scholarship or part-time employment during the scholarship period.",
+            "Termination": "The scholarship may be terminated if the student is dropped from the institution, fails to maintain academic performance, or is guilty of misconduct."
+        },
+        "Application Process": "Online application process is currently in progress. Please check the official ICAR website for updates.",
+        "Documents Required": [
+            "Aadhaar Number",
+            "Proof of admission to an Agricultural University for an undergraduate degree program in Agriculture & Allied Sciences",
+            "Caste Certificate",
+            "Bank Details",
+            "Passport-sized photograph"
+        ]
+    },
+    {
+        "Scheme Name": "Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards",
+        "Description": "A scholarship scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, to provide financial assistance to children whose parents/guardians are engaged in hazardous occupations such as tanners, flayers, waste pickers, and manual scavengers.",
+        "Eligibility": {
+            "Categories": [
+                "Tanners & Flayers",
+                "Waste Pickers",
+                "Persons engaged in Manual Scavenging (under the Manual Scavengers Act, 2013)",
+                "Persons engaged in hazardous cleaning (under the Manual Scavengers Act, 2013)"
+            ],
+            "Conditions": "Children must not be employed or assist in parents' work during studies. The scholarship will be discontinued if the student fails to secure annual promotion or violates school discipline."
+        },
+        "Benefits": {
+            "Rate of Scholarship": {
+                "Day Scholars": "\u20b9 110 per month (Class 1st to 10th) for 10 months",
+                "Hostellers": "\u20b9 700 per month (Class 3rd to 10th) for 10 months"
+            },
+            "Ad-Hoc Grant": {
+                "Day Scholars": "\u20b9 750 per annum",
+                "Hostellers": "\u20b9 1000 per annum"
+            },
+            "Additional Provisions for Students with Disabilities": {
+                "Reader Allowance": "\u20b9 100 per month for blind students (Classes III and X)",
+                "Transport Allowance": "\u20b9 50 per month for disabled students not residing in hostels",
+                "Special Pay": "\u20b9 100 per month to a helper for severely handicapped students",
+                "Escort Allowance": "\u20b9 50 per month for severely handicapped day scholars",
+                "Extra Coaching Allowance": "\u20b9 100 per month for mentally retarded/mentally ill students (Classes III and X)"
+            }
+        },
+        "Duration": "The scholarship is provided for a maximum of 10 months per academic year, ending at the completion of Class 10th.",
+        "Mode of Disbursal": "The scholarship is disbursed through Direct Benefit Transfer (DBT) to the students' bank accounts via State Governments/UT Administrations.",
+        "Application Process": {
+            "Announcement": "The scheme will be announced by the concerned State Government/UT Administration.",
+            "Application Forms": "Forms will be provided by the respective State Government/UT Department and should be submitted online with supporting documents.",
+            "Submission": "Students should fill out the application form and submit it to the school authority for uploading on the portal.",
+            "Renewal": "The scholarship may be renewed annually by the concerned State Government/UT Administration."
+        },
+        "Documents Required": [
+            "Passport-sized photograph",
+            "Aadhaar Card (optional/mandatory)",
+            "Bank details of the Aadhaar-linked bank account",
+            "Disability certificate (if applicable)",
+            "Proof of educational qualification",
+            "Bonafide certificate from the school",
+            "Birth certificate",
+            "Certificate from the District Social Welfare Officer or other designated officer proving the parent is engaged in eligible occupations"
+        ]
+    },
+    {
+        "Scheme Name": "Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD",
+        "Description": "The fellowship scheme was launched in 2005-06 by the Ministry of Social Justice & Empowerment to provide financial assistance to Scheduled Caste (SC) students pursuing M.Phil or Ph.D. in Sciences, Humanities, or Social Sciences from recognized Indian universities.",
+        "Eligibility": {
+            "1": "Applicant must belong to the Scheduled Caste (SC) category.",
+            "2": "Applicant must be pursuing regular and full-time advanced studies/research leading to an M.Phil/PhD degree.",
+            "3": "Applicant must have qualified one of the following tests: National Eligibility Test - Junior Research Fellowship (NET - JRF) or UGC-CSIR NET-JRF Joint Test.",
+            "4": "Applicant must be enrolled in a University/Institution recognized by UGC under Section 2(f) or Section 3 of the UGC Act, 1956.",
+            "5": "The applicant is eligible for only one fellowship at a time and must not accept any other monetary benefit/scholarship/fellowship from any other source."
+        },
+        "Benefits": {
+            "Number of Slots": {
+                "Total Fellowships": "2000 new fellowships per year",
+                "Breakdown": "1500 Junior Research Fellowships (JRF) for Humanities/Social Sciences and 500 JRF for Science stream"
+            },
+            "Fellowship Rates": {
+                "JRF": "\u20b931,000 per month for the first two years",
+                "SRF": "\u20b935,000 per month for the remaining tenure"
+            },
+            "Contingency Allowance": {
+                "Humanities/Social Sciences": "\u20b910,000 per annum for JRF and \u20b920,500 per annum for SRF",
+                "Science": "\u20b912,000 per annum for JRF and \u20b925,000 per annum for SRF"
+            },
+            "Escort/Reader Assistance": "\u20b92,000 per month for physically and visually handicapped candidates, applicable for both JRF and SRF",
+            "House Rent Allowance (HRA)": "8%, 16%, or 24% depending on the location of the research work, for students not provided with hostel accommodation."
+        },
+        "Duration": {
+            "M.Phil": "2 years maximum with JRF for 2 years (no SRF eligibility)",
+            "Ph.D": "5 years maximum, with JRF for the first 2 years and SRF for the remaining 3 years",
+            "M.Phil + Ph.D": "5 years maximum, with JRF for the first 2 years and SRF for the remaining 3 years"
+        },
+        "Disbursal Mode": "Fellowship is directly credited to the beneficiary's Aadhaar-linked bank account via Direct Benefit Transfer (DBT).",
+        "Reservation/Relaxation": {
+            "SC Students": "Preference is given to SC students who have secured admission and qualified the NET examination.",
+            "PwD (Persons with Disabilities)": "Inclusive provision as per the Rights of Persons with Disabilities Act, 2016, with a minimum 40% disability required for eligibility for concessions."
+        },
+        "Exclusions": [
+            "University/College/Institution employees, even on study leave, are excluded from the fellowship.",
+            "Students who have already availed or partially availed any Ph.D. fellowship are not eligible to apply."
+        ],
+        "Application Process": {
+            "Call for Applications": "UGC advertises and invites online applications for the fellowship based on the merit of NET/UGC-CSIR NET-JRF examination.",
+            "Merit List Preparation": "Merit list will be prepared based on the NET examination. Preference is given to candidates who have secured admission. In case of insufficient candidates, those who have not yet secured admission will be selected in order of merit.",
+            "Result Intimation": "Results are published on the UGC website, and award letters are available for download from the UGC online portal."
+        },
+        "Documents Required": [
+            "Passport-sized photograph",
+            "Aadhaar number",
+            "Self-attested degree/mark sheet of the last qualifying exam",
+            "Fee receipt for the current course year",
+            "Bank details of Aadhaar-linked bank account",
+            "Caste certificate issued by competent authority",
+            "Declaration certificate"
+        ]
+    },
+    {
+        "Scheme Name": "NPC Students Internship Program",
+        "Description": "The National Productivity Council (NPC) offers internship training to undergraduate and postgraduate students, providing exposure to various interventions and IT-enabled activities undertaken by NPC. This program helps students apply their academic knowledge in real-world scenarios, develop new skills, and gain deeper insights into industrial and technological processes.",
+        "Areas of Focus": [
+            "Industrial Engineering (IE)",
+            "Environment Management (EN)",
+            "Energy Management (EM)",
+            "Agribusiness Services (AB)",
+            "Economic Services (ES)",
+            "Information Technology (IT)",
+            "Advanced Manufacturing & Industry 4.0"
+        ],
+        "Duration": {
+            "Standard Duration": "2 months",
+            "Start Date": "First week of June",
+            "Extendable": "Yes, based on individual cases"
+        },
+        "Benefits": {
+            "Certificate": "Interns will receive an internship completion certificate after submitting the full project report.",
+            "Logistics & Support": "NPC provides working space, internet facilities, and necessary support. Interns must bring their own laptops.",
+            "Boarding & Lodging": "Interns are responsible for their own transportation and accommodation.",
+            "Remuneration": "No financial remuneration or stipend is provided."
+        },
+        "Eligibility": {
+            "1": "The applicant must be an Indian citizen.",
+            "2": "The applicant must not have already applied for the internship in the current financial year.",
+            "3": "The applicant must be pursuing graduation or post-graduation studies."
+        },
+        "Internship in IT - Job Requirements": {
+            "Skills Required": [
+                "Strong editing, written, and oral communication skills.",
+                "Strong interpersonal skills.",
+                "Proactive technical troubleshooting and problem-solving skills.",
+                "Knowledge of learning patterns and research for generating quality learning materials.",
+                "Familiarity with current and emerging eLearning tools and applications.",
+                "Expertise in graphics creation for training, websites, and classroom-based materials."
+            ],
+            "Desired Skills": [
+                "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Adobe Photoshop, and/or Adobe InDesign.",
+                "Proficiency in graphic design tools like Corel Draw, Illustrator, Ink Shape.",
+                "Programming and website development skills with Java, .NET, JavaScript, HTML/DHTML.",
+                "Experience with technologies like SAS, Big Data, Hadoop, Hive, Pig, Python, SQL, AI, Machine Learning, Data Annotation Services."
+            ]
+        },
+        "Application Process": {
+            "Process": "Offline",
+            "Step 1": "Submit a filled and signed application form with required documents (self-attested) to the college/institution. Mention the desired internship duration.",
+            "Step 2": "The college/institution sends the application to Director (HRM), National Productivity Council, New Delhi - 110003."
+        },
+        "Documents Required": {
+            "To be Submitted with Application": [
+                "Curriculum Vitae (CV)",
+                "Letter from Supervisor/Head of Department/Principal, with 'No Objection' Certificate allowing the student to undertake the internship."
+            ],
+            "To be Submitted at the End of Internship": [
+                "Project/Assignment report/paper detailing the learning experience."
+            ]
+        }
+    },
+    {
+        "Scheme Name": "Department of Expenditure Internship Programme",
+        "Description": "The Department of Expenditure offers an internship program for undergraduates, postgraduates, and research scholars to familiarize them with the process of formulating economic policies of the Government of India. This is not a job or a guarantee for a job in the Department.",
+        "Duration": {
+            "Minimum Duration": "2 months",
+            "Maximum Duration": "6 months",
+            "Flexible": "Internships are available at various times throughout the financial year."
+        },
+        "Logistics Support": {
+            "Provided": [
+                "Office space",
+                "Computer with internet access"
+            ],
+            "Declaration of Secrecy": "Interns are required to submit a declaration of secrecy before beginning the internship."
+        },
+        "Placement": {
+            "Assigned to": "Interns will be attached to DS/Director level officers in various divisions based on their areas of interest and division requirements."
+        },
+        "Benefits": {
+            "Remuneration": "\u20b910,000 per month, payable on completion of the internship and submission of a report/paper.",
+            "Certificate": "Interns will receive a certificate of internship after successful completion and submission of their report/paper."
+        },
+        "Eligibility": {
+            "General Criteria": [
+                "Indian nationals",
+                "Postgraduates in Economics, Finance, Management, or students in the 4th and 5th years of a 5-year integrated Law course or other professional courses."
+            ],
+            "Specific Criteria": [
+                "Postgraduate students must have a first-class graduate degree.",
+                "Research students must have at least 50% marks in Post-Graduation.",
+                "Students in the 4th or 5th year of the 5-year integrated Law course must have at least 80% marks in their 12th-grade examination."
+            ]
+        },
+        "Application Process": {
+            "Method": "Offline",
+            "Steps": [
+                "Submit application form and CV to Section Officer (Admn-I), Department of Expenditure, North Block, New Delhi.",
+                "Include a write-up (500 words) on why you consider this program useful for your career."
+            ],
+            "Required Documents": [
+                "Passport-sized photograph",
+                "CV",
+                "Write-up on the importance of the program (500 words)"
+            ]
+        },
+        "End of Internship Requirements": {
+            "Report": "Submit a report or paper to the Head of the Division on the assigned subject.",
+            "Feedback": "Provide feedback on the internship experience, including monitoring and supervision by the concerned Director/JS."
+        }
+    },
+    {
+        "Scheme Name": "Maulana Azad National Fellowship For Minority Students",
+        "Description": "The Maulana Azad National Fellowship for Minority Students was launched in 2009 by the Ministry of Minority Affairs to provide financial aid to students from minority communities to pursue M. Phil and Ph.D. courses at recognized institutions. The fellowship aims to support students from minority communities to further their academic research and higher studies in various fields.",
+        "Eligibility": "Students from minority communities (Buddhist, Christian, Jain, Muslim, Sikh, or Zoroastrian) who have qualified for the UGC-NET or Joint CSIR-UGC NET examination. The fellowship is available only for students who have not availed of any fellowship earlier. Employees of any educational institution or government are not eligible.",
+        "Benefits": "The fellowship provides a stipend of \u20b931,000 per month for Junior Research Fellowship (JRF) for the first two years, and \u20b935,000 per month for Senior Research Fellowship (SRF) for the remaining tenure. Additionally, contingency grants for different streams (Humanities, Social Science, Science, Engineering & Technology) are provided, along with \u20b92,000 per month for physically and visually handicapped candidates for escort/reader assistance.",
+        "Required Documents": "1. UGC-NET/CSIR-UGC NET Certificate. 2. Continuation Certificate (submitted every three months). 3. Progress Report (submitted after one year of the fellowship). 4. Contingency Grant Account for eligible expenses. 5. HRA Certificate (if applicable). 6. Passport-sized photograph. 7. Write-up (not exceeding 500 words) explaining how the fellowship will contribute to the student's career growth.",
+        "Additional Notes": "Only two students per family are allowed to benefit from this fellowship. The fellowship is granted for a maximum duration of five years for M. Phil and Ph.D. students. If the research work is not completed during the fellowship period, the student will not be eligible to apply again under this scheme. Employees of universities, colleges, or government institutions are ineligible, even if they are on study leave."
+    },
+    {
+        "Scheme Name": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Scholarship For Higher Education (SHE)",
+        "Description": "The INSPIRE Scholarship for Higher Education (SHE) aims to attract students to pursue basic and natural science courses at the undergraduate and postgraduate levels and promote research careers in these fields. The scheme provides scholarships to meritorious students to study in the disciplines of Physics, Chemistry, Biology, Mathematics, and more, under the Department of Science and Technology (DST), Government of India.",
+        "Eligibility": "Meritorious students with top 1% marks in their Class XII examination or top ranks in JEE, AIPMT, NTSE, KVPY, and other science-related competitions. The student must be pursuing B.Sc., B.S., Int. M.Sc./Int. M.S. in Basic and Natural Sciences at recognized institutions in India.",
+        "Benefits": "The scholarship provides \u20b980,000 per annum, \u20b960,000 as a monthly scholarship of \u20b95,000 and \u20b920,000 as a summer research project grant. The scholarship is transferred directly to the student's SBI account. Students must also undertake a summer research project at a recognized research center.",
+        "Required Documents": "1. Class XII Mark Sheet. 2. JEE, AIPMT, NTSE, KVPY, or other competition rank (if applicable). 3. Performance Report from the current institution. 4. Scanned copy of the first page of SBI passbook for bank account details. 5. Any additional certificates supporting eligibility.",
+        "Additional Notes": "The scholarship is for a maximum period of five years or until the completion of the course. Only Basic and Natural Sciences subjects are supported under this scholarship. The call for applications is advertised on the INSPIRE Web Portal, and the selection process may take up to four months."
+    },
+    {
+        "Scheme Name": "Long Term Fellowship under the Human Resource Development Programme for Health Research",
+        "Description": "The Long Term Fellowship under the Human Resource Development Programme for Health Research aims to provide advanced training to medical and health research personnel in cutting-edge research areas related to health and medicine. The fellowship targets the creation of a skilled workforce for health research in India, with training opportunities both within India and abroad in priority health research areas.",
+        "Eligibility": "Indian citizens working in Indian institutes with at least three years of experience as regular faculty. Applicants should have an M.D./M.S./M.D.S. or equivalent degree like MBBS/BDS/MVSc./M.Sc./M.Pharma/M.Tech or Ph.D. in health/medical research. The applicant should be below 45 years of age and should not have availed any government fellowship of one month or more for the same research area.",
+        "Benefits": {
+            "Long-Term Fellowship in Indian Institutes": {
+                "Stipend": "\u20b940,000 per month (\u20b920,000 if training is at the same station)",
+                "Contingency Grant": "\u20b930,000 maximum for local travel and \u20b920,000 for attending progress review meetings at DHR",
+                "Travel": "As per T.A. rules of the parent organization"
+            },
+            "Long-Term Fellowship Abroad": {
+                "Stipend": "US $3000 per month (or equivalent in other currency)",
+                "Air Travel": "Cost of air passage in economy class from parent institute to host institute",
+                "Contingency Grant": "\u20b950,000 maximum for local expenses, visa, insurance, and \u20b920,000 for attending progress review meetings",
+                "Conference Grant": "US $600 for up to 6 months or US $1200 for 6-12 months for attending conferences"
+            }
+        },
+        "Research Areas": [
+            "Toxicology",
+            "Genomics",
+            "Proteomics",
+            "Geriatrics",
+            "Stem cell research",
+            "Clinical Trials",
+            "Good Clinical Practices (GCP)",
+            "Good Laboratory Practices (GLP)",
+            "Quality Control (QC) and Quality Assurance (QA)",
+            "Modern Biology",
+            "Biotechnology",
+            "Genetics",
+            "Drugs Chemistry",
+            "Operational Research",
+            "Health Informatics",
+            "Medical Ethics",
+            "Disease Modelling",
+            "Health Economics",
+            "Environmental Health",
+            "Mental Health/Clinical Psychology"
+        ],
+        "Application Process": {
+            "Step 1": "Submit full-length research proposals online through the DHR Electronics Project Management System (e-PMS) portal.",
+            "Step 2": "Register and login to the e-PMS portal.",
+            "Step 3": "Complete profile and submit a new proposal under the appropriate sub-scheme.",
+            "Step 4": "Verify email and complete mandatory sections before submission."
+        },
+        "Documents Required": [
+            "Identity proof",
+            "Passport-size Photograph",
+            "Academic Qualifications certificates",
+            "Caste certificate (if applicable)",
+            "Disability certificate (if applicable)",
+            "Technical Details for long-term fellowship",
+            "Undertaking by Applicant",
+            "Certificate by Head of Institute",
+            "Mentor Consent Letter",
+            "DSIR Recognition certificate",
+            "Mandate Form from working Institute",
+            "Age Proof Certificate",
+            "Declaration & Attestation",
+            "Claim sheet (for International fellowship)",
+            "Utilization certificate and Statement of expenditure",
+            "Completion report",
+            "Any other required document"
+        ],
+        "Additional Notes": "The fellowship is for 6-12 months, non-transferable, and the stipend will be disbursed through bank transactions. All documents should be submitted through the online portal, and no hard copies should be sent by post."
+    },
+    {
+        "Scheme Name": "Junior Research Fellowship in Engineering & Technology",
+        "Description": "The Junior Research Fellowship (JRF) in Engineering & Technology, offered by the University Grants Commission (UGC), is designed for candidates who wish to pursue research leading to a Ph.D. in engineering and technology. This fellowship provides opportunities for M.Pharma, M.E., and M.Tech students through direct interviews conducted by the UGC, as there is no NET examination in these fields.",
+        "Eligibility": {
+            "Qualifications": "Candidates must hold an M.E./M.Tech. degree or equivalent with at least 55% marks. GATE is not mandatory for applying for this fellowship.",
+            "Age Limit": "The age limit is 40 years as of 1st July of the award year, extendable by five years for women and SC/ST candidates.",
+            "Reservations": "22.5% of fellowships are reserved for SC/ST candidates who fulfill the qualifications. If SC/ST candidates are unavailable, the slots will be made available to general candidates."
+        },
+        "Objectives": "To provide an opportunity for research scholars to undertake advanced study and research in engineering and technology, leading to a Ph.D., except for subjects like geology and geophysics.",
+        "Benefits": {
+            "Fellowship": {
+                "JRF": "\u20b914,000 per month for the first two years",
+                "SRF": "\u20b915,000 per month for the remaining period after satisfactory evaluation",
+                "Contingency": {
+                    "JRF": "\u20b912,000 per annum for the first two years",
+                    "SRF": "\u20b925,000 per annum for the remaining period"
+                },
+                "Departmental Assistance": "\u20b93,000 per annum to the host institute for infrastructure support",
+                "Escorts/Reader Assistance": "\u20b92,000 per month for physically handicapped and blind candidates",
+                "House Rent Allowance (HRA)": "As per institutional rules or reimbursement if accommodation is not provided"
+            },
+            "Medical Assistance": "No fixed medical assistance is provided. Fellows may avail medical facilities available at the institution.",
+            "Leave": {
+                "Leave Entitlement": "30 days per year plus public holidays. Additional leave provisions for women candidates (maternity leave of 135 days).",
+                "Leave Without Fellowship": "Up to one year for teaching assignments or up to three months in other cases."
+            }
+        },
+        "Exclusions": {
+            "Cancellation of Award": [
+                "Misconduct",
+                "Unsatisfactory research progress",
+                "Failure in any Ph.D. examination",
+                "Eligibility issues discovered later"
+            ]
+        },
+        "Application Process": {
+            "Step 1": "Applications must be submitted online in the prescribed format via advertisements published once a year.",
+            "Step 2": "Shortlisted candidates will be called for an interview, and selection will be based on merit.",
+            "Step 3": "Candidates must submit a Joining Report signed by their supervisor or head of department once selected."
+        },
+        "Documents Required": [
+            "Duly filled application form",
+            "Aadhaar Number",
+            "Proof of Date of Birth (Birth Certificate or Class 10 Marksheet)",
+            "Proof of Address",
+            "Educational qualifications (mark sheets, certificates)",
+            "Certificate from the head of the department/institution",
+            "Research proposal abstract (500 words)",
+            "Employment status proof (if applicable)",
+            "Declaration",
+            "Basic Data Sheet",
+            "Caste certificate (if applicable)",
+            "Minority certificate (if applicable)",
+            "Physical disability certificate (if applicable)",
+            "Bank details",
+            "Government-issued ID proof"
+        ]
+    },
+    {
+        "Scheme Name": "National Renewable Energy Internship (NREI) Scheme",
+        "Description": "The NREI Scheme by the Ministry of New and Renewable Energy (MNRE) offers internship opportunities for students and professionals to gain experience in the renewable energy sector. The scheme is open to students pursuing undergraduate, graduate, or post-graduate degrees or research scholars in recognized institutions within India or abroad, with a focus on renewable energy.",
+        "Purpose": "To provide interns with an opportunity to learn about the Ministry\u2019s functioning, renewable energy programs, policies, and issues, and contribute by generating reports, technical analysis, and policy papers.",
+        "Eligibility": {
+            "Qualifications": "Applicants must be pursuing a graduate or post-graduate degree in Engineering, Management, Law, Science, or Renewable Energy from a recognized institution within India or abroad, or be working in the Renewable Energy field.",
+            "Additional Notes": "MNRE may relax eligibility criteria for deserving candidates."
+        },
+        "Internship Details": {
+            "Number of Interns": "Maximum of 20 interns per year.",
+            "Duration": "Internships last between 2 to 6 months, starting from the date of joining.",
+            "Internship Frequency": "The internship is available twice a year based on MNRE requirements.",
+            "Repetition/Extension": "No intern is allowed to repeat or extend the internship."
+        },
+        "Benefits": {
+            "Stipend": "\u20b915,000 per month for physical internships only. No stipend for virtual internships.",
+            "Certificate": "Certificates will be issued upon satisfactory completion of the internship and evaluation of the report/paper.",
+            "Logistics Support": "Internet facilities and other necessities for physical internships. Interns must have their own laptops and make their own lodging and boarding arrangements."
+        },
+        "Application Process": {
+            "Step 1": "Visit the official MNRE website.",
+            "Step 2": "Fill in the Online Application Form, upload required documents, and self-attest them if necessary.",
+            "Step 3": "Click 'Submit' and note down the Application ID for future reference.",
+            "Additional Notes": [
+                "Applications are accepted on a half-yearly basis, preferably in July and January.",
+                "The intern must clearly indicate their area of interest from MNRE's research and program areas.",
+                "The application should be submitted at least one month before the expected date of joining and not more than three months in advance."
+            ]
+        },
+        "Selection Process": {
+            "Step 1": "Applications will be scrutinized by a Selection Committee.",
+            "Step 2": "Selected candidates will receive offers based on available slots, the concerned Division's consent, and the Selection Committee\u2019s approval. The list of selected candidates will be posted on the MNRE website."
+        },
+        "Documents Required": [
+            "Aadhaar Card",
+            "Passport size photograph",
+            "Passing Certificate / Degree / Marksheet of Graduation / Post Graduation",
+            "Letter from Supervisor/Head of Department/Principal indicating applicant's status",
+            "No Objection Certificate (NOC) from the institution",
+            "Proof of Identity",
+            "Proof of Address",
+            "Identity Card / Proof of Enrollment in the Institute",
+            "Bank Details (for stipend disbursement)"
+        ],
+        "Additional Notes": [
+            "Selected candidates must present original mark sheets and NOC at the time of joining.",
+            "Interns must submit a 'Declaration of Secrecy' to the Ministry before reporting for the internship."
+        ]
+    },
+    {
+        "Scheme Name": "Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship",
+        "Description": "The Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship is provided by the University Grants Commission (UGC) to support post-doctoral research in various disciplines including Sciences, Engineering, Technology, Humanities, Social Sciences, and Languages at Indian Universities/Institutions.",
+        "Objective": "To provide an opportunity for advanced studies and research in various fields and assist young researchers in launching their academic/research career.",
+        "Fellowship Details": {
+            "No. of Slots": 900,
+            "Reservation Policy": "30% of slots reserved for women candidates.",
+            "Fellowship Amount": "\u20b950,000 per month.",
+            "Contingency Grant": "\u20b950,000 per year.",
+            "Escorts/Reader Assistance": "\u20b93,000 per month for PWD candidates.",
+            "Contingency Grant Usage": "Can be used for minor equipment, chemicals, research-specific items (less than \u20b950,000), not for international travel or furniture."
+        },
+        "Accommodation": {
+            "Hostel Accommodation": "Provided by institution, eligible to draw only hostel fees excluding mess, electricity, etc.",
+            "HRA": "Available if the scholar arranges accommodation, as per the ceiling of the Government of India."
+        },
+        "Medical Assistance": "No separate/fixed medical assistance, but scholars may avail medical facilities at their institutions.",
+        "Leave Entitlement": {
+            "Earned Leave": "30 days per year, in addition to public holidays.",
+            "Maternity/Paternity Leave": "As per Government of India norms.",
+            "Intermittent Break for Women Scholars": "Up to 1 year in total, with no fellowship during the break.",
+            "Academic Leave": "For academic/teaching assignments or foreign visits related to research, but no fellowship is paid during academic leave."
+        },
+        "Eligibility": {
+            "Candidate Eligibility": {
+                "PhD Requirement": "Unemployed candidates with a Ph.D. degree in relevant fields (Sciences, Engineering, Technology, Humanities, Social Sciences, including Languages).",
+                "Age Limit": "Below 35 years (with relaxation of 5 years for SC/ST/OBC (Non-Creamy Layer)/Women/PWD/Transgender).",
+                "Other Fellowship": "Candidates availing other fellowships/remuneration must resign from them before accepting the UGC fellowship.",
+                "Academic Requirement": "Minimum 55% marks at the postgraduate level (5% relaxation for reserved categories).",
+                "Mentor Requirement": "Candidates must identify a mentor at a recognized institution and obtain consent."
+            },
+            "Mentor Eligibility": {
+                "Faculty Status": "Mentor must be a regular faculty at Associate Professor level or above.",
+                "PhD Requirement": "Mentor must have a Ph.D. degree.",
+                "Experience": "Mentor must have supervised at least 3 Ph.D. theses."
+            },
+            "Research Center Eligibility": {
+                "Institution Types": [
+                    "Universities under section 2(f) of UGC Act, 1956 with valid NAAC accreditation.",
+                    "Deemed Universities under section 3 of UGC Act, 1956 with valid NAAC accreditation.",
+                    "Central/State Government funded institutions authorized to award degrees.",
+                    "Institutions of National Importance."
+                ]
+            }
+        },
+        "Application Process": {
+            "Step 1": "Read the UGC guidelines carefully on the official website.",
+            "Step 2": "Register as a new user on the UGC website for the fellowship scheme.",
+            "Step 3": "Login using credentials sent via email and fill out the application form.",
+            "Step 4": "Fill in eligibility details and provide required educational and research information.",
+            "Step 5": "Upload required documents such as passport-size photograph, research proposal, abstract, and No Objection Certificate from the proposed mentor.",
+            "Step 6": "Submit the application, and ensure all fields are complete before final submission."
+        },
+        "Documents Required": [
+            "Scanned passport-size photograph and signature (max size: 1 MB, format: jpg).",
+            "Complete Research Proposal (max size: 5 MB).",
+            "Research Abstract (max size: 1 MB).",
+            "No Objection Certificate from Mentor/Supervisor (signed by Mentor, HOD, Registrar)."
+        ],
+        "Application Submission": "No hard copies of the application form are accepted. Only online submissions are accepted."
+    },
+    {
+        "Scheme Name": "Padho Pardesh Scheme",
+        "Description": "The Padho Pardesh scheme provides interest subsidies to meritorious minority students pursuing master's, M.Phil, or Ph.D. degrees abroad. It aims to support economically weaker students from notified minority communities in accessing higher education opportunities abroad and enhancing employability.",
+        "Objective": "To offer interest subsidies on education loans for minority students pursuing higher education abroad, enabling better opportunities for personal and professional development.",
+        "Eligible Subjects": [
+            "Arts/ Humanities/ Social Sciences",
+            "Commerce",
+            "Pure Sciences",
+            "Engineering",
+            "Biotechnology/ Genetic Engineering",
+            "Industrial Environmental Engineering",
+            "Nanotechnology",
+            "Marine Engineering",
+            "Petrochemical Engineering",
+            "Plastic Technology",
+            "Cryogenic Engineering",
+            "Mechatronics",
+            "Automation Robotics (including artificial intelligence)",
+            "Laser Technology",
+            "Low Temperature Thermal Dynamics",
+            "Optometry",
+            "Art Restoration Technology",
+            "Dock and Harbour Engineering",
+            "Imaging System Technology",
+            "Composite Materials Engineering",
+            "Energy Storage Engineering",
+            "Energy Conservation",
+            "Energy Efficient Habitat",
+            "Packaging Engineering/ Technology",
+            "Nuclear Engineering",
+            "Information Technology (including Computer Engineering, Software, Software Quality Assurance, Networking/Connectivity Engineering, Communication Systems)",
+            "Industrial Safety Engineering",
+            "Agriculture & Agro Technology",
+            "Medical",
+            "Floriculture & Landscaping",
+            "Food Sciences & Technology",
+            "Forestry & Natural Resources",
+            "Horticulture",
+            "Plant Pathology",
+            "Energy Studies",
+            "Farm Power & Machinery",
+            "Veterinary Sciences",
+            "Soils & Water Management",
+            "Plant Breeding & Genetics",
+            "Small-Scale Rural Technology",
+            "Ocean & Atmospheric Sciences",
+            "M.B.A",
+            "M.C.A"
+        ],
+        "Benefits": {
+            "Financial Assistance": "Interest subsidy on education loans to reduce the cost of overseas education.",
+            "Access to Education": "Makes overseas education more accessible to minority students from economically weaker sections.",
+            "Improved Employability": "Studying abroad provides a competitive edge in the global job market.",
+            "Personal and Professional Development": "Studying abroad enhances students' skills and knowledge in a global context."
+        },
+        "Eligibility": {
+            "Admission Requirement": "Must be admitted to an approved master's, M.Phil, or Ph.D. program abroad in a recognized university/institution.",
+            "Income Limit": "Family income must not exceed \u20b96,00,000 per annum.",
+            "Loan Requirement": "Must have obtained an education loan from a scheduled bank under the Indian Banks Association (IBA) Education Loan Scheme.",
+            "Application Timeframe": "Application must be made during the first year of study (applications received in the second year or later will not be accepted).",
+            "Priority": "Priority given to applications from states and union territories with lower bank interest rates.",
+            "Aadhaar Linking": "Payment of financial benefits may be linked to the student's Aadhaar number."
+        },
+        "Application Process": {
+            "Step 1": "Open the official website for the Padho Pardesh scheme.",
+            "Step 2": "Click on the 'Apply Now' option.",
+            "Step 3": "Fill in the required details including ISD code, mobile number, and email ID.",
+            "Step 4": "Submit the details to proceed with the application."
+        },
+        "Documents Required": [
+            "Application form",
+            "Admission letter from the institution abroad",
+            "Passport",
+            "Income certificate",
+            "Education loan application",
+            "Aadhaar card"
+        ]
+    },
+    {
+        "Scheme Name": "Free Coaching Scheme for SC and OBC Students",
+        "Description": "This scheme, implemented by the Department of Social Justice and Empowerment in collaboration with Dr. Ambedkar Foundation (DAF), aims to provide quality coaching to economically disadvantaged SC and OBC students for competitive examinations, thereby enhancing their chances of securing public/private sector jobs or admission to reputed technical and professional higher education institutions.",
+        "Objective": "To enable SC and OBC candidates to prepare for competitive exams for better employment opportunities or admission into prestigious institutions for higher education.",
+        "Implementation": {
+            "Ministry": "Ministry of Social Justice and Empowerment",
+            "Implementing Body": "Dr. Ambedkar Foundation (DAF)",
+            "Method": "Direct selection of students, who can undertake coaching in any institute of their choice."
+        },
+        "Category-wise Ratio": {
+            "Total Students": "3500 annually",
+            "SC Students": "At least 70%, with a possible relaxation to 50% if sufficient SC candidates are not available.",
+            "Female Candidates": "30% reservation under each category, with flexibility if there are insufficient female candidates."
+        },
+        "Benefits": {
+            "Stipend": "\u20b94000 per month for the duration of the course (up to 12 months)",
+            "Incentive": "\u20b915,000 for successful students who clear the mains stage of Central/State Civil Services Exams (Class 1 and Class 2 posts)."
+        },
+        "Mode of Payment": {
+            "Payment Method": "Direct Bank Transfer (DBT) to Aadhaar-enabled bank accounts",
+            "Installments": "First installment of 50% released at the start of the course, second installment after 75% of course duration."
+        },
+        "Courses for Coaching": [
+            "Group A and B exams (UPSC, SSC, RRBs)",
+            "State Public Service Commission Exams (Group A and B)",
+            "Officers' Grade exams (Banks, Insurance, PSUs)",
+            "Premier Entrance Examinations (Engineering - IIT-JEE, Medical - NEET, Management - CAT, Law - CLAT)",
+            "Eligibility tests (SAT, GRE, GMAT, IELTS, TOEFL)",
+            "National Defence Academy, Combined Defence Services, and CPL Courses"
+        ],
+        "Eligibility": {
+            "Student Criteria": {
+                "Category": "SC or OBC",
+                "Income": "Annual family income should be \u20b98,00,000 or less",
+                "Education": {
+                    "For Class 12th Based Exams": "Should have passed class 12th or be studying in class 12th",
+                    "For Under Graduate Based Exams": "Should have completed or be in the final year of an undergraduate course"
+                },
+                "Benefits Limit": "A student can avail the benefits up to two times, irrespective of the number of attempts for exams."
+            },
+            "University Criteria": {
+                "Seats Allocation": "Maximum of 100 seats per Central University, with a minimum of 50 students per university for viability.",
+                "Courses Allocation": "Each university can offer a maximum of 4 courses, with at least 25 students per course."
+            },
+            "Exclusions": [
+                "Students with less than 50% marks in Class 10th (for 12th-based exams) or Class 12th (for undergrad-based exams) are not eligible."
+            ]
+        },
+        "Application Process": {
+            "Step 1": "Central Universities issue advertisements inviting applications from eligible students.",
+            "Step 2": "Students apply online on the Free Coaching Scheme Portal with details of the course they intend to join."
+        },
+        "Timelines": {
+            "Notification Date": "1st May",
+            "Last Date for Application": "31st May",
+            "Merit List (PMS/TCS students)": "5th June",
+            "Merit List (Others)": "30th June",
+            "Joining Deadline (PMS/TCS students)": "4th December",
+            "Joining Deadline (Other students)": "29th December",
+            "Coaching Fee Release Deadline": "Within 1 month of fee receipt submission",
+            "Hall Ticket Upload Deadline": "30 days from the entrance exam",
+            "Stipend Release Deadline": "30 days from hall ticket upload and self-certification"
+        },
+        "Documents Required": [
+            "Passport-size photograph",
+            "Aadhaar card",
+            "Income certificate",
+            "Caste certificate",
+            "Residence proof",
+            "Age proof",
+            "ID card",
+            "Aadhaar-linked bank account details",
+            "Class 10th marksheet (for 12th-based exams)",
+            "Class 12th marksheet (for undergrad-based exams)",
+            "Declaration of not availing benefits more than twice",
+            "Declaration of not availing benefits under any other coaching scheme"
+        ],
+        "Notes": [
+            "If the student does not have an Aadhaar number at the time of application, they can submit their EID number, but payments will only be made after obtaining an Aadhaar number.",
+            "Income certificates for self-employed parents must be issued by a Revenue Officer, not below the rank of Tehsildar."
+        ]
+    },
+    {
+        "Scheme Name": "PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",
+        "Description": "A sub-scheme under PM Young Achievers Scholarship Award Scheme (PM-YASASVI), launched by the Ministry of Social Justice & Empowerment to provide educational assistance to meritorious students from OBC, EBC, and DNT categories for studying in top-class schools from Class 9 to Class 12.",
+        "Objective": "To provide premium education to meritorious students belonging to OBC, EBC, and DNT categories by funding their education from Class 9 onwards till they complete Class 12.",
+        "Scope and Coverage": {
+            "Eligibility Criteria": {
+                "Category": "OBC, EBC, DNT",
+                "Annual Household Income": "Less than \u20b92.5 Lakhs",
+                "Education Level": "Class 9 onwards till Class 12",
+                "Schools": "Top Class Schools (TCS) identified by the scheme"
+            },
+            "Slots Allocation": "Based on OBC population data for each state. A minimum of 30% scholarships reserved for girls."
+        },
+        "Implementing Agency": {
+            "Ministry": "Ministry of Social Justice & Empowerment",
+            "Assistance": "State Governments, National Scholarship Portal"
+        },
+        "Modalities": {
+            "Selection of Schools": "Schools with consistent 100% pass rate in Classes 10 and 12, selected by a committee.",
+            "Types of Schools": "Public (Central/State/Local Body), aided, and private schools.",
+            "State Slots Announcement": "Slots for each state and class announced in April each year."
+        },
+        "Benefits": {
+            "Scholarship Amount": {
+                "Class 9 and 10": "Up to \u20b975,000 per annum",
+                "Class 11 and 12": "Up to \u20b91,25,000 per annum"
+            },
+            "Covered Expenses": "Tuition fee, hostel fee, and other charges as required by the school",
+            "Payment Mode": "Direct Bank Transfer (DBT)",
+            "Installments": "Payment released in installments before 15th August each year."
+        },
+        "Eligibility": {
+            "Student Criteria": {
+                "Categories": "OBC, EBC, DNT",
+                "Income": "Household income must be less than \u20b92.5 Lakhs",
+                "Merit": "Must be studying in a top-class school from Class 9 to Class 12"
+            },
+            "School Criteria": {
+                "Aadhaar-Based Attendance": "Schools must integrate Aadhaar-based attendance system if required."
+            },
+            "Exclusions": "Students receiving benefits under any other government scheme for similar items will not be eligible."
+        },
+        "Application Process": {
+            "Portal": "National Scholarship Portal (NSP)",
+            "New Registration": {
+                "Step 1": "Visit NSP and click 'New Registration' under Applicant Corner.",
+                "Step 2": "Read the instructions, provide the undertaking, and click continue.",
+                "Step 3": "Fill out the registration form with required details."
+            },
+            "Registered Applicants": {
+                "Step 1": "Log in to NSP with your application ID & password.",
+                "Step 2": "Click on 'Fresh Application' under Applicant Corner.",
+                "Step 3": "Select the scholarship and fill out the application form.",
+                "Step 4": "Upload the required documents and submit."
+            }
+        },
+        "Selection Process": {
+            "Verification": "Nodal officers of the schools will verify the applications online, followed by confirmation from the State Government.",
+            "Merit List": "State-wise merit lists will be prepared based on the marks obtained in the previous class, with separate lists for boys and girls."
+        },
+        "Documents Required": [
+            "Aadhaar Card",
+            "Passport-size photograph",
+            "Educational qualification marksheets/certificates",
+            "Valid Income certificate issued by the competent authority",
+            "Domicile Certificate",
+            "Caste/Community Certificate issued by the competent authority",
+            "Disability certificate (if applicable)",
+            "Bank Account details",
+            "Any other documents as required"
+        ]
+    },
+    {
+        "Scheme Name": "Student Internship Program",
+        "Description": "A learning opportunity for students to gain exposure to the functioning of the CAG of India. Interns will be engaged on a contract basis for 3 to 6 months in Regional Capacity Building and Knowledge Institutes.",
+        "Eligibility": {
+            "Minimum Age": "Not more than 25 years",
+            "Academic Qualification": "Undergraduate, Postgraduate, or Research students from recognized institutions with a stellar academic record",
+            "Preferred Attributes": [
+                "Skills in Information Technology (IT) & Information Communication Technology (ICT)",
+                "Good communication and interpersonal skills"
+            ],
+            "Other Requirements": [
+                "Must sign a Secrecy and Non-Disclosure Agreement before reporting for the internship",
+                "Must comply with the laws of secrecy of the country",
+                "Shall not be entitled to leave during the internship period"
+            ]
+        },
+        "Duration": "3 to 6 months",
+        "Place of Posting": "CAG\u2019s office in New Delhi or any field office across India",
+        "Number of Interns": "Varies based on the requirement from time to time",
+        "Benefits": {
+            "Remuneration": "\u20b912,000/- per month (all-inclusive), paid on completion of the internship and submission of Report/Paper",
+            "Logistics Support": "Office space, computer with internet access",
+            "Outplacement": "Experience Certificate / Recommendatory letter upon successful completion"
+        },
+        "Travel and Perks": {
+            "Travel": "No TA/DA will be provided for interviews or during the internship",
+            "Other Perks": [
+                "No accommodation, residential phone, conveyance, or medical reimbursements",
+                "No compensation in case of death, injury, or illness during the internship"
+            ]
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Link": "https://docs.google.com/forms/d/e/1FAIpQLSc2YalGsTbVe-QcpxPotewRiqrVi-GZQKWg40DWhP_Q-mDqBQ/viewform",
+            "Steps": [
+                "Read the instructions carefully",
+                "Fill in all the required details in the form",
+                "Submit the form"
+            ],
+            "Note": "Candidates should also visit the official CAG website for the latest updates."
+        },
+        "Documents Required": [
+            "Secrecy and Non-Disclosure Agreement declaration",
+            "Report/Paper on the assigned subject at the end of the internship",
+            "Feedback on the program"
+        ],
+        "Conditions": {
+            "Secrecy": "Interns must sign a Secrecy and Non-Disclosure Agreement before commencement",
+            "Internship Status": "The internship does not constitute a job or employment in CAG or Indian Audit & Accounts Department",
+            "Leave": "Interns are not entitled to leave during the internship",
+            "Working Hours": "Same as regular office hours, no extra remuneration for overtime"
+        }
+    },
+    {
+        "Scheme Name": "Internship Programme at Serious Fraud Investigation Office",
+        "Description": "The SFIO Internship Programme aims to provide a platform for young scholars and researchers from reputed academic institutions in fields like Economics, Commerce, Law, Management, Computer Forensics, and professional courses from ICAI, CMA, and ICSI. Interns will gain hands-on experience and interact with officers of SFIO, including its Regional Offices.",
+        "Duration": "Minimum of one month and a maximum of two months",
+        "Declaration of Secrecy": "Interns must furnish a Declaration of Secrecy prior to the commencement of the internship.",
+        "Benefits": {
+            "Stipend": "\u20b97,000/- per month during the internship period",
+            "Certificate of Internship": "Certificate awarded upon satisfactory completion and submission of an end-of-assignment report, evaluated by the concerned official of SFIO"
+        },
+        "Eligibility": {
+            "National": "The applicant must be an Indian National",
+            "Academic Qualifications": [
+                "Post Graduate Courses - MBA (Finance), Law Students in 4th/5th Year of a five-year stream with excellent academic records",
+                "Post-graduation with at least 55% marks in graduation, pursuing Masters/Research in Economics/Finance/Management/Law/Computer Forensics from recognized universities",
+                "Students in the final year or equivalent of ICAI, ICAI(CMA), ICSI, Central Universities, AICTE recognized financial/Economic Institutions, National Management Institutes, Foreign Universities and Institutions of Excellence",
+                "For Graduate Applicants - Must have secured First Class Degree in Graduation"
+            ]
+        },
+        "Application Process": {
+            "Mode": "Online",
+            "Link": "https://sfio.gov.in/en/notice/internship-programme-in-sfio-3/",
+            "Steps": [
+                "Download and fill the application form from the official SFIO website",
+                "Institutions must send the duly filled and signed forms along with self-attested documents to kundanlal@sfio.nic.in",
+                "Institutions should also indicate a convenient time for the student to join the internship and the permissible duration as per the academic curriculum",
+                "Final selection will be made based on the suitability of the students and availability of positions"
+            ]
+        },
+        "Documents Required": {
+            "When applying for the Internship": [
+                "Passport Sized Photograph",
+                "Self-Attested Copies of Educational Certificates"
+            ],
+            "At the end of the Internship": [
+                "Assignment Report on the allotted subject (to be presented to the Director, SFIO)",
+                "Feedback on the experience of the internship program"
+            ]
+        },
+        "Other Notes": "The internship will not constitute a job or assurance of a job with the Serious Fraud Investigation Office."
+    },
+    {
+        "Scheme Name": "Merit Cum Means Based Scholarship For Students Belonging To The Minority Communities",
+        "Description": "A scholarship scheme by the Ministry of Minority Affairs for students from minority communities pursuing technical and professional courses at undergraduate and postgraduate levels in listed institutes. The scholarship aims to lighten the financial burden on education for minority communities and provide a level playing field in the competitive employment arena.",
+        "Benefits": {
+            "Course Fee": "\u20b920,000/- per annum, subject to actuals (whichever is less) for both Hosteller & Day Scholar",
+            "Monthly Maintenance Allowance": {
+                "Hosteller": "\u20b91,000/- for 10 months in an academic year",
+                "Day Scholar": "\u20b9500/- for 10 months in an academic year"
+            },
+            "Scholarship for Listed Institutes": "Full course fee reimbursed for listed institutes"
+        },
+        "Eligibility": {
+            "Community": "The applicant must belong to a Minority Community",
+            "Course": "The applicant must be pursuing a technical or professional course at the undergraduate or postgraduate level",
+            "Marks": "The applicant must have secured not less than 50% marks (or equivalent grade) in the previous final examination",
+            "Income": "The annual income of the parents/guardians of the applicant from all sources must be less than or equal to \u20b92.5 Lakhs per annum"
+        },
+        "Exclusions": [
+            "The scholarship may be suspended or canceled if the student violates school discipline or any other terms and conditions of the scholarship",
+            "Students availing any other scholarship for SC/ST/OBC/minority categories will not be eligible",
+            "The scholarship will be canceled if it is obtained through false statements and the amount paid will be recovered by the concerned State/UT Govt",
+            "Students will not be allowed to avail of benefits under any other scheme for the same purpose",
+            "No more than two students from a family can receive the scholarship"
+        ],
+        "Application Process": {
+            "Mode": "Online",
+            "Steps": [
+                "Visit the New Registration page on the National Scholarships Portal",
+                "Accept the Terms and Conditions and click 'Next'",
+                "Enter your mobile number and OTP, and click 'Verify'",
+                "Complete the e-KYC process and receive your reference number",
+                "For OTR ID number generation, download and install AadhaarFaceRD services and NSP OTR App on your device, perform face authentication, and receive OTR number",
+                "For Fresh Application, log in using your OTR number and password, complete the application form, and upload the required documents",
+                "Submit the application form either as a draft or final submission"
+            ]
+        },
+        "Documents Required": {
+            "When Applying": [
+                "Passport-sized Photograph",
+                "Verification Form by the Institution",
+                "Income Certificate issued by a Competent Authority",
+                "Self-Certified or Parent/Guardian Certified Community Certificate (if applicable)",
+                "Self-attested Mark Sheet of the last qualifying exam",
+                "Fee Receipt for the current course year",
+                "Bank Details of the applicant or parent/guardian (if applicable)",
+                "Residential/Domicile Certificate",
+                "Bonafide Student Certificate (if the institute is located in a different State/UT)",
+                "Aadhaar Number or alternative identification documents"
+            ],
+            "Alternative Identification Documents (if Aadhaar is unavailable)": [
+                "Passport",
+                "Ration Card",
+                "Bank Passbook with Photograph",
+                "PAN Card",
+                "Certificate of Identity from School Principal or Headmaster",
+                "Driving License",
+                "Any other documents as specified by the State Government or Union Territory Administration"
+            ]
+        },
+        "Tracking Payment Status": "Track payment status via the 'Know Your Payment' template in the Public Financial Management System (PFMS) Portal by providing Aadhaar number, Bank Account number, or NSP Application ID.",
+        "Important Notes": [
+            "Students must submit renewal applications before the cut-off date for that year",
+            "The National Scholarships Portal will provide timelines for opening and closing of the portal",
+            "Applications will be verified by the Institute and the concerned State Higher Education Department"
+        ]
+    },
+    {
+        "Scheme Name": "Post Matric Scholarship Scheme for Scheduled Tribe Students",
+        "Description": "A centrally sponsored scholarship scheme by the Ministry of Tribal Affairs for ST students pursuing post-matriculation or post-secondary courses in India.",
+        "Eligibility": "Scheduled Tribe students who have passed Matriculation or Higher Secondary examinations or equivalent, and whose parents\u2019/guardians\u2019 combined annual income does not exceed \u20b92,00,000.",
+        "Benefits": {
+            "Hostellers": {
+                "Bachelor, Master, MPhil/PhD, Professional Courses": "\u20b91,200 per month",
+                "Non-professional Courses (e.g., BA/B.Sc/B.Com)": "\u20b9820 per month",
+                "Vocational/ITI/Polytechnic": "\u20b9570 per month",
+                "Post-Matriculation (Class XI and XII)": "\u20b9380 per month"
+            },
+            "Day Scholars": {
+                "Bachelor, Master, MPhil/PhD, Professional Courses": "\u20b9500 per month",
+                "Non-professional Courses (e.g., BA/B.Sc/B.Com)": "\u20b9530 per month",
+                "Vocational/ITI/Polytechnic": "\u20b9300 per month",
+                "Post-Matriculation (Class XI and XII)": "\u20b9230 per month"
+            },
+            "Disability Allowance": {
+                "Hostellers": "\u20b9800 per month (\u20b99,600 annually)",
+                "Day Scholars": "\u20b9600 per month (\u20b97,200 annually)"
+            }
+        },
+        "Required Documents": [
+            "Application Form (fresh or renewal)",
+            "Passport-size photograph",
+            "Certificates of examinations passed (Diplomas, Degrees, etc.)",
+            "Caste Certificate (signed by Revenue Officer, not below Tahsildar)",
+            "Income Declaration (affidavit for self-employed or income certificate for employed parents)",
+            "Receipt of last year\u2019s scholarship (for renewal)"
+        ]
+    }
+]
