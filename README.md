@@ -1,4 +1,4 @@
-![Chatbot Screenshot](Chatbot UI)
+![Chatbot Screenshot](Chatbot_UI.png)
 
 ### Government Scheme Chatbot
 
