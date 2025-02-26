@@ -64,30 +64,31 @@ dataset of government schemes. The chatbot is built using Flask for the backend,
 ### Project Structure
 
 government-scheme-chatbot/
-├── app.py # Flask application entry point
+   ├── app.py # Flask application entry point
 
-├── chatbot.py # Chatbot logic and NLP processing
+   ├── chatbot.py # Chatbot logic and NLP processing
 
-├── static/ # Static files (CSS, JS, JSON)
-│ ├── css/
+   ├── static/ # Static files (CSS, JS, JSON)
 
-│ │ └── style.css # Stylesheet for the chatbot interface
+       ├── css/
 
-│ ├── js/
+          └── style.css # Stylesheet for the chatbot interface
 
-│ │ └── chatbot.js # JavaScript for handling chatbot interactions
+       ├── js/
 
-│ └── Cleaned_Schemes.json # JSON file containing government schemes data
+         └── chatbot.js # JavaScript for handling chatbot interactions
 
-├── templates/ # HTML templates
+      └── Cleaned_Schemes.json # JSON file containing government schemes data
 
-│ └── index.html # Main chatbot interface
+   ├── templates/ # HTML templates
 
-├── requirements.txt # Python dependencies
+      └── index.html # Main chatbot interface
 
-├── README.md # Project documentation
+   ├── requirements.txt # Python dependencies
 
-└── .env # Environment variables (not included in the repo)
+   ├── README.md # Project documentation
+
+   └── .env # Environment variables (not included in the repo)
 
 ### Contributing
 
