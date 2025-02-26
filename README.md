@@ -15,15 +15,15 @@ dataset of government schemes. The chatbot is built using Flask for the backend,
 
 ### Technologies Used
 
-Backend: Flask (Python)
+**Backend**: Flask (Python)
 
-Frontend: HTML, CSS, JavaScript
+**Frontend**: HTML, CSS, JavaScript
 
-NLP Model: BERT (via Hugging Face Transformers)
+**NLP Model**: BERT (via Hugging Face Transformers)
 
-Search Engine: FAISS
+**Search Engine**: FAISS
 
-LLM: LLaMA (via Groq API)
+**LLM**: LLaMA (via Groq API)
 
 ### Installation
 
