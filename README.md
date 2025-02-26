@@ -1,10 +1,10 @@
 ![Chatbot Screenshot](Chatbot_UI.png)
 
-##Government Scheme Chatbot
+## Government Scheme Chatbot
 This project is a chatbot designed to provide information about various government schemes. It uses natural language processing (NLP) and a FAISS-based search engine to retrieve relevant information from a
 dataset of government schemes. The chatbot is built using Flask for the backend, and it leverages the LLaMA model via the Groq API for generating responses.
 
-### Features
+#### Features
 **Natural Language Understanding**: The chatbot can understand user queries related to government schemes and provide relevant information.
 
 **FAISS-based Search: Uses FAISS**: (Facebook AI Similarity Search) to quickly find the most relevant schemes based on user queries.
@@ -95,7 +95,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 6. **Open a pull request**
 
 ### Acknowledgments
-Hugging Face for the BERT model and tokenizer.
+* Hugging Face for the BERT model and tokenizer.
 
 Facebook AI for the FAISS library.
 
