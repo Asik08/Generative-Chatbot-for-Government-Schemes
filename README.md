@@ -1,4 +1,4 @@
-![Chatbot Screenshot](E:\Chatbot\Chatbot UI)
+![Chatbot Screenshot](Chatbot UI)
 
 ### Government Scheme Chatbot
 
