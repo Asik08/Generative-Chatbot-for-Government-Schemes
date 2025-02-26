@@ -1,12 +1,12 @@
 ![Chatbot Screenshot](Chatbot_UI.png)
 
 ### Government Scheme Chatbot
----
+___
 This project is a chatbot designed to provide information about various government schemes. It uses natural language processing (NLP) and a FAISS-based search engine to retrieve relevant information from a
 dataset of government schemes. The chatbot is built using Flask for the backend, and it leverages the LLaMA model via the Groq API for generating responses.
 
 ### Features
----
+___
 **Natural Language Understanding**: The chatbot can understand user queries related to government schemes and provide relevant information.
 
 **FAISS-based Search: Uses FAISS**: (Facebook AI Similarity Search) to quickly find the most relevant schemes based on user queries.
@@ -16,7 +16,7 @@ dataset of government schemes. The chatbot is built using Flask for the backend,
 **User-friendly Interface**: A simple and intuitive web interface for interacting with the chatbot.
 
 ### Technologies Used
----
+___
 **Backend**: Flask (Python)
 
 **Frontend**: HTML, CSS, JavaScript
@@ -28,7 +28,7 @@ dataset of government schemes. The chatbot is built using Flask for the backend,
 **LLM**: LLaMA (via Groq API)
 
 ### Installation
----
+___
 1. **Clone the repository**
    ```
    git clone https://github.com/your-username/government-scheme-chatbot.git
@@ -58,13 +58,13 @@ dataset of government schemes. The chatbot is built using Flask for the backend,
    Open your web browser and navigate to http://localhost:5000 to interact with the chatbot.
 
 ### Usage
----
+___
 **Ask Questions**: Type your questions related to government schemes in the input box and press "Send".
 
 **Get Responses**: The chatbot will process your query and provide relevant information about the schemes.
 
 ### Project Structure
----
+___
 ```
 government-scheme-chatbot/
 ├── app.py                # Flask application entry point
@@ -82,7 +82,7 @@ government-scheme-chatbot/
 └── .env                  # Environment variables (not included in the repo)
 ```
 ### Contributing
----
+___
 Contributions are welcome! If you'd like to contribute, please follow these steps: 
 
 1. **Fork the repository**
@@ -102,7 +102,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 6. **Open a pull request**
 
 ### Acknowledgments
----
+___
 Hugging Face for the BERT model and tokenizer.
 
 Facebook AI for the FAISS library.
@@ -110,7 +110,7 @@ Facebook AI for the FAISS library.
 Groq for providing access to the LLaMA model.
 
 ### Contact
----
+___
 If you have any questions or suggestions, feel free to reach out:
 
 **My email**: mohamedashik027@gmail.com
