@@ -62,7 +62,7 @@ dataset of government schemes. The chatbot is built using Flask for the backend,
 **Get Responses**: The chatbot will process your query and provide relevant information about the schemes.
 
 ### Project Structure
-
+```
 government-scheme-chatbot/
 ├── app.py                # Flask application entry point
 ├── chatbot.py            # Chatbot logic and NLP processing
@@ -77,7 +77,7 @@ government-scheme-chatbot/
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 └── .env                  # Environment variables (not included in the repo)
-
+```
 ### Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps: 
