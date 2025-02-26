@@ -95,7 +95,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 6. **Open a pull request**
 
 ## Acknowledgments
-* Hugging Face for the BERT model and tokenizer.
+Hugging Face for the BERT model and tokenizer.
 
 Facebook AI for the FAISS library.
 
