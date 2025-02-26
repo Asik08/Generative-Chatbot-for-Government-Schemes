@@ -1,3 +1,5 @@
+![Chatbot Screenshot](E:\Chatbot\Chatbot UI)
+
 ### Government Scheme Chatbot
 
 This project is a chatbot designed to provide information about various government schemes. It uses natural language processing (NLP) and a FAISS-based search engine to retrieve relevant information from a
