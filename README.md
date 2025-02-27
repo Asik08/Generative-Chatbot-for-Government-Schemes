@@ -106,4 +106,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 **My email**: mohamedashik027@gmail.com
 
-**Project Link**: https://github.com/Asik08/government-scheme-chatbot
+**Project Link**: https://github.com/Asik08/Generative-Chatbot-for-Government-Schemes
